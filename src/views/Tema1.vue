@@ -3,11 +3,76 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    //- El componente "Muestras" tiene las aplicaciones de todos los componentes de la base
-    //- se encuentra en src/components/Muestras.vue
-    //- Una vez el componente "Muestras" no se necesite 
-    //- Se debe borrar el "import Muestras from '../components/Muestras'" y en "components" en "<script"
-    //- esto evitará que se compile en la carpeta final de distribución
+    .titulo-principal(data-aos="flip-up")
+      .titulo-principal__numero
+        span 1
+      h1 <i>Retail</i>
+
+    #t_1_1.titulo-segundo
+      h2 1.1  Establecimiento comercial
+
+
+
+
+    Separador
+    br
+    br
+    #t_1_2.titulo-segundo
+      h2 1.2  Formatos comerciales
+
+
+
+
+    Separador
+    br
+    br
+    #t_1_3.titulo-segundo
+      h2 1.3  Arquitectura del establecimiento
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     Muestras
   
 </template>
