@@ -56,7 +56,7 @@
               p Mueble específico de las marcas comerciales, cuyo fin es exhibir promociones, degustaciones, demostraciones o exhibiciones de diferentes artículos.
             .col-md-6
               figure
-                img(src='@/assets/curso/t3-i2.png', alt='pareja caminando en un supermecado')
+                img(src='@/assets/curso/t3-i2-1.png', alt='pareja caminando en un supermecado')
 
           .row
             .col-md-6.mb-4.mb-md-0
@@ -64,14 +64,14 @@
               p Muebles parecidos a las góndolas, pero con una sola cara y que se instalan en cualquier pared del establecimiento.
             .col-md-6
               figure
-                img(src='@/assets/curso/t3-i2.png', alt='pareja caminando en un supermecado')
+                img(src='@/assets/curso/t3-i2-2.png', alt='pareja caminando en un supermecado')
           .row
             .col-md-6.mb-4.mb-md-0
               .h4 Expositores  
               p Mueble que está adaptado para exhibir atractivamente los artículos. Los más comunes son de cartón, madera, plástico o metal.
             .col-md-6
               figure
-                img(src='@/assets/curso/t3-i2.png', alt='pareja caminando en un supermecado')
+                img(src='@/assets/curso/t3-i2-3.png', alt='pareja caminando en un supermecado')
 
           .row
             .col-md-6.mb-4.mb-md-0
@@ -79,7 +79,7 @@
               p Muebles que exhiben mucha mercancía, de forma arrumada, una encima de otra, como por ejemplo balones, frutas y verduras, ropa en rebaja, etc. Por lo general, son metálicos o de madera. Exhiben los productos de manera desordenada o revuelta; pueden ser de gran tamaño y altura.
             .col-md-6
               figure
-                img(src='@/assets/curso/t3-i2.png', alt='pareja caminando en un supermecado')
+                img(src='@/assets/curso/t3-i2-4.png', alt='pareja caminando en un supermecado')
 
           .row
             .col-md-6.mb-4.mb-md-0
@@ -87,7 +87,7 @@
               p Mueble que, por lo general, está localizado en la salida del establecimiento. Debe tener el suficiente espacio para su ubicación, de tal forma que sea amplio y confortable para el cliente.
             .col-md-6
               figure
-                img(src='@/assets/curso/t3-i2.png', alt='pareja caminando en un supermecado')
+                img(src='@/assets/curso/t3-i2-5.png', alt='pareja caminando en un supermecado')
 
           .row
             .col-md-6.mb-4.mb-md-0
@@ -95,7 +95,7 @@
               p Mueble ubicado cerca de las cajas y que está para exhibir productos de compra compulsiva como chocolates, chicles, mecato, revistas, libros, entre otros.
             .col-md-6
               figure
-                img(src='@/assets/curso/t3-i2.png', alt='pareja caminando en un supermecado')
+                img(src='@/assets/curso/t3-i2-6.png', alt='pareja caminando en un supermecado')
 
           .row
             .col-md-6.mb-4.mb-md-0
@@ -103,7 +103,7 @@
               p Sistema que permite el traslado del producto de fácil y correctamente, y que en el punto de venta se utiliza como un expositor por parte del fabricante.
             .col-md-6
               figure
-                img(src='@/assets/curso/t3-i2.png', alt='pareja caminando en un supermecado')
+                img(src='@/assets/curso/t3-i2-7.png', alt='pareja caminando en un supermecado')
 
           .row
             .col-md-6.mb-4.mb-md-0
@@ -111,7 +111,7 @@
               p Muebles que se usan generalmente para exhibir artículos costosos y de tamaño pequeño como por ejemplo joyas, relojes, perfumes, etc.
             .col-md-6
               figure
-                img(src='@/assets/curso/t3-i2.png', alt='pareja caminando en un supermecado')
+                img(src='@/assets/curso/t3-i2-8.png', alt='pareja caminando en un supermecado')
 
           .row
             .col-md-6.mb-4.mb-md-0
@@ -119,7 +119,7 @@
               p Muebles específicos para exhibir alimentos que requieran de ser conservados, porque son productos perecederos. 
             .col-md-6
               figure
-                img(src='@/assets/curso/t3-i2.png', alt='pareja caminando en un supermecado')
+                img(src='@/assets/curso/t3-i2-9.png', alt='pareja caminando en un supermecado')
 
 
     Separador
@@ -234,7 +234,7 @@
       p.mb-3  Se basan en establecer precios que pueden ser menores, mayores o iguales a los precios de venta y que, estratégicamente, dependen de la intención del fabricante y la imagen que quiera dejarles a los clientes. Según esto, algunas de las estrategias de precio más comunes son:
 
 
-      TabsA.color-acento-botones.mb-5
+      TabsA.color-primario.mb-5
         .tarjeta.color-acento-contenido.p-4(titulo="Penetración")
           .row
             .col-lg-7
@@ -305,7 +305,7 @@
     p.mb-5  Los clientes en la actualidad están más invadidos de publicidad porque, además de los medios tradicionales o masivos (televisión, prensa, radio, revistas, cine, etc.), también están los medios alternativos (correo electrónico, redes sociales, blogs, telefonía celular, etc.). En un contexto así, las acciones de mercadeo alternativo se convierten en una oportunidad muy atractiva. Precisamente una de estas acciones alternativas de mercadeo es la activación de marca.
     .row.mb-5
       .col-lg-7
-        .cajon.color-acento-contenido.p-4(data-aos="flip-up")
+        .cajon.color-acento-contenido.p-4.mb-5(data-aos="flip-up")
           p.mb-0 El concepto se puede definir con aquellas actividades en que la marca tiene una relación directa con el cliente. Esas actividades pertenecen al <i>marketing</i> <b>BTL</b> que es la sigla de <i>Below The Line</i> (o mercadeo alternativo o no tradicional). El mercadeo alternativo se identifica por llamar la atención del cliente de una manera diferente a las demás acciones de comunicación como por ejemplo la publicidad, boletines, promociones o fuerza de ventas.
         p.mb-3  La más importante ventaja de estas actividades alternativas de mercadeo es que crean un vínculo con el cliente, además de lograr una experiencia significativa y un recuerdo agradable; y suelen usar factores psicológicos de los clientes para alcanzar un mayor impacto en ellos (AA. VV., 2020).
         p.mb-3  Como se puede ver en los diferentes ejemplos, la activación de marca se refiere a una puesta en escena de un plan de acción que lleve la marca a donde se encuentre el cliente, bien sea un parque, un centro comercial, un escenario público, etc., y donde a través de una idea impactante lo haga pasar un momento memorable, sin este darse cuenta de que fue publicidad.
@@ -320,7 +320,7 @@
 
     h3.titulo-tercero Dimensiones de la activación de marca
     p.mb-5  La activación de marca debe ser de 360º, o sea, usando medios masivos y medios alternativos, para poder comprender todas las dimensiones a través de las cuales pueda crear un vínculo con su público objetivo. Es primordial que estas dimensiones tengan coherencia entre sí y con la marca, que expresen la intención corporativa y que hablen el mismo lenguaje de la marca. Las dimensiones son:
-    TabsA.color-acento-botones.mb-5
+    TabsA.color-primario.mb-5
       .tarjeta.color-acento-contenido.p-4(titulo="Comunicación")
         .row
           .col-lg-7
@@ -329,6 +329,7 @@
           .col-lg-5
             figure(data-aos="slide-right")
               img(src='@/assets/curso/t3-i12.png', alt='imagen decorativa')     
+      .tarjeta.color-acento-contenido.p-4(titulo="Productos o servicios")  
         .row
           .col-lg-7
             h4 Productos o servicios
@@ -336,7 +337,7 @@
           .col-lg-5
             figure(data-aos="slide-right")
               img(src='@/assets/curso/t3-i12-1.png', alt='imagen decorativa')   
-
+      .tarjeta.color-acento-contenido.p-4(titulo="Personas y procesos")  
         .row
           .col-lg-7
             h4 Personas y procesos
@@ -344,7 +345,7 @@
           .col-lg-5
             figure(data-aos="slide-right")
               img(src='@/assets/curso/t3-i12-2.png', alt='pareja recibiendo producto que han comprado')   
-
+      .tarjeta.color-acento-contenido.p-4(titulo="Entornos digitales")  
         .row
           .col-lg-7
             h4 Entornos digitales
@@ -352,7 +353,7 @@
           .col-lg-5
             figure(data-aos="slide-right")
               img(src='@/assets/curso/t3-i12-3.png', alt='persona realizando compra virtual desde su tablet')   
-
+      .tarjeta.color-acento-contenido.p-4(titulo="Entornos físicos")  
         .row
           .col-lg-7
             h4 Entornos físicos
@@ -366,7 +367,25 @@
     h3.titulo-tercero Proceso de activación de marca
     p.mb-5  Este proceso puede variar según sean las características de la marca e incluso el tipo de actividad que se vaya a realizar para activarla. Sin embargo, se pueden nombrar cinco etapas genéricas:
     .row.mb-5.justify-content-center
+      .col-lg-7
+        LineaTiempoD.color-secundario
+          p(numero="1" titulo="Identificar los puntos de contacto") Se refiere a la identificación de todos los puntos de contacto que la empresa pueda tener con su público objetivo en las cinco dimensiones de la activación de marca que se mencionaron antes, estableciendo prioridades.
+          p(numero="2" titulo="Definir el plan de activación") Se refiere a la idea como tal. Cómo se va a impactar al cliente para que la experiencia de marca sea significativa e inolvidable.
+          p(numero="3" titulo="Definir el <i>Customer Journey</i>") Se refiere a la definición del trayecto que el cliente realiza dentro del establecimiento a lo largo de los diferentes puntos de contacto en su proceso de compra. Consiste en especificar los instantes y soportes que entran en juego en todo el proceso de interacción de los clientes con la marca. En cada uno de esos instantes se deben conocer los aspectos de la estrategia que se puedan ir activando de la manera correcta. La logística de la activación es vital para que todo el proceso se vaya cumpliendo sea la idea.
+          p(numero="4" titulo="Poner en marcha del plan") Se refiere a que la empresa debe saber en qué momento (día y hora) se debe llevar a cabo la activación. Debe ser un momento en el que haya la cantidad de clientes suficientes para poder activar la marca de la mejor forma en su presencia.
+          p(numero="5" titulo="Monitorear el progreso") Este proceso se debe hacer cada vez que se realice una activación y es el proceso que entrega métricas o indicadores para revisar más objetivamente el resultado de la activación. Cabe anotar que la activación se debe filmar para editar un video y compartirlo en los canales de la marca. Entonces, es importante revisar los datos obtenidos en el video (me gusta, compartir, interacciones, etc.). De igual forma, revisar en redes sociales qué interacciones o vínculos se lograron con los clientes luego de la activación. Para eso, es necesario cruzar todos los datos que obtenemos de los distintos canales.
+
+      .col-lg-3  
+        figure
+          img(src='@/assets/curso/t3-i13.png', alt='imagen decorativa')
+      .clearfix.p-5
       .col-lg-10
+        .cajon.color-acento-contenido.p-4(data-aos="flip-up")
+          p.mb-0 Como en cualquier plan, es importante que en la activación de marca se establezca con detalle un plan y un cronograma que detalle bien la idea, con sus acciones, recursos, fechas, responsables y KPI obtenidos. Para este tipo de estrategias se recomienda tener una visión a largo plazo, una coherencia con la identidad y personalidad de la marca, un cumplimiento de las promesas, un diálogo con los clientes y un oído activo; además de tener un trato personalizado con los clientes, una gestión colaborativa, y finalmente una capacidad de adaptarse según sean los comentarios de los clientes (AA. VV., 2020).
+
+
+              
+
 
 
 
