@@ -146,7 +146,7 @@
               img(src='@/assets/curso/t3-i4.png', alt='imagen decorativa')
           .col-md-8.mb-4.mb-md-0
             .h4 Artículos con rotación A
-            .cajon.color-primario.p-4
+            .cajon.color-primario.p-4.mb-4
               p.mb-0 Por cantidad, solo ocupan por lo general el 20% de los inventarios, pero, en realidad, son los productos que tienen más rotación y, por tanto, tienen una jerarquía estratégica. Las referencias A se refiere a aquello artículos donde el establecimiento tiene una inversión más alta de su presupuesto y por lo tanto generan el 80% de los ingresos, por lo que es muy importante que no existan roturas de <i>stock</i> (inventario).
             p.mb-3  También pertenecen a este grupo los <b>SKU</b> (<i>Stock-keeping Unit</i> o referencia) que, por sus características, son de vital importancia para el buen funcionamiento del punto de venta. Se recomienda conservar un control exhaustivo del inventario de aquellas referencias que se clasificaron como A con renovación frecuente, o incluso permanente. A la hora de situar las referencias A en la góndola, tienden a ubicarse en zonas que tengan un acceso directo y fácil para el operario, y, además, que estén cerca de los muelles de salida o de carga dentro del local.
             p.mb-3  <b>Ejemplos:</b> secciones que presentan rotación alta y que están conformadas por familias de productos perecederos de diversa naturaleza como por ejemplo carnicería, pescadería, panadería, frutas y verduras, lácteos, aceites y refrescos. Y en cuanto a su ubicación en el punto de venta se sitúan en la zona fría, con el objetivo de generar tránsito de clientes hacia ese cuadrante.
@@ -155,10 +155,10 @@
         .row.justify-content-center
           .col-md-3
             figure
-              img(src='@/assets/curso/t3-i4.png', alt='imagen decorativa')
+              img(src='@/assets/curso/t3-i4-1.png', alt='imagen decorativa')
           .col-md-8.mb-4.mb-md-0
             .h4 Artículos con rotación B
-            .cajon.color-primario.p-4
+            .cajon.color-primario.p-4.mb-4
               p.mb-0 Son aquellas referencias que se encuentran en la franja de rotación media y suelen representar, por volumen, el 30% de los inventarios. No se renuevan con tanta frecuencia como los de la referencia A, por lo que su valor e importancia es menor.
             p.mb-3  Sin embargo, se debe estar atento a la evolución de estas referencias B por si, en algún momento, pueden pasar a rotación A o, en caso contrario, convertirse en referencia C. El abastecimiento de este tipo de existencias puede funcionar con la regla del inventario mínimo/máximo, ya que no están sujetos a un control exhaustivo sobre las compras emitiendo pedidos continuamente, como los productos de referencia A. Su ubicación en góndola es en zonas de altura intermedia donde su acceso no es tan directo como los artículos A, pero que tampoco implican ser inaccesibles.
             p.mb-3  <b>Ejemplos:</b> secciones de media rotación formadas por familias de artículos de diferente naturaleza como por ejemplo congelados, textil hogar, textil moda, higiene personal, calzado, electrodomésticos, entre otras. Y en cuanto a la ubicación en el punto de venta se sitúan localizados en una zona intermedia, es decir, entre la zona caliente y la zona fría.
@@ -167,10 +167,10 @@
         .row.justify-content-center
           .col-md-3
             figure
-              img(src='@/assets/curso/t3-i4.png', alt='imagen decorativa')
+              img(src='@/assets/curso/t3-i4-2.png', alt='imagen decorativa')
           .col-md-8.mb-4.mb-md-0
             .h4 Artículos con rotación C
-            .cajon.color-primario.p-4
+            .cajon.color-primario.p-4.mb-4
               p.mb-0 Son los más numerosos, llegando a tener el 50% de las referencias almacenadas y, además, son los menos solicitados por los clientes. Como no son productos estratégicos no van a tener recursos siendo más modestos, y el reabastecimiento suele ajustarse con <i>stocks</i> de seguridad (productos que evitan la rotura del <i>stock</i>). Se aconseja vigilarlos para que no finalicen formando un inventario obsoleto y de muy poca rotación. Aquí, el establecimiento se debe preguntar: ¿conviene invertir parte del presupuesto en el mantenimiento de <i>stock</i> con referencia C?
             p.mb-3  Sin embargo, se debe estar atento a la evolución de estas referencias B por si, en algún momento, pueden pasar a rotación A o, en caso contrario, convertirse en referencia C. El abastecimiento de este tipo de existencias puede funcionar con la regla del inventario mínimo/máximo, ya que no están sujetos a un control exhaustivo sobre las compras emitiendo pedidos continuamente, como los productos de referencia A. Su ubicación en góndola es en zonas de altura intermedia donde su acceso no es tan directo como los artículos A, pero que tampoco implican ser inaccesibles.
             p.mb-3  <b>Ejemplos:</b> secciones de media rotación formadas por familias de artículos de diferente naturaleza como por ejemplo congelados, textil hogar, textil moda, higiene personal, calzado, electrodomésticos, entre otras. Y en cuanto a la ubicación en el punto de venta se sitúan localizados en una zona intermedia, es decir, entre la zona caliente y la zona fría.
@@ -251,7 +251,7 @@
               p Precios altos al principio del ciclo de vida, que tienen una gran inversión publicitaria y promocional para cautivar a una gran parte del mercado, pero que con el paso del tiempo lo van reduciendo poco a poco hasta su precio de venta con el fin de conquistar luego a los demás segmentos.
             .col-lg-5
               figure(data-aos="slide-right")
-                img(src='@/assets/curso/t3-i10.png', alt='imagen decorativa')    
+                img(src='@/assets/curso/t3-i10-1.png', alt='imagen decorativa')    
                 
                          
         .tarjeta.color-acento-contenido.p-4(titulo="Alineamiento")
@@ -261,7 +261,7 @@
               p Precio de introducción al mercado que es similar al de los productos de la competencia.
             .col-lg-5
               figure(data-aos="slide-right")
-                img(src='@/assets/curso/t3-i10.png', alt='imagen decorativa')    
+                img(src='@/assets/curso/t3-i10-2.png', alt='imagen decorativa')    
 
         .tarjeta.color-acento-contenido.p-4(titulo="Primado")
           .row
@@ -270,7 +270,7 @@
               p Precio alto que le fija a un artículo que no tendrá ningún tipo de descuento y que servirá para observar la fidelidad de los clientes frente a la marca. Se trata de una de las mejores formas que se tienen para lograr “valor de marca”. Ejemplo: Apple.
             .col-lg-5
               figure(data-aos="slide-right")
-                img(src='@/assets/curso/t3-i10.png', alt='imagen decorativa')                    
+                img(src='@/assets/curso/t3-i10-3.png', alt='imagen decorativa')                    
                 
         .tarjeta.color-acento-contenido.p-4(titulo="Descuento por cantidad o volumen")
           .row
@@ -279,7 +279,7 @@
               p Precio que presenta una deducción en su valor monetario cuyo fin es motivar a los clientes a comprar más de lo que realmente requieren o en grandes cantidades; estos descuentos se fijan según el tamaño de la demanda, bien sea en la suma de dinero o en unidades.
             .col-lg-5
               figure(data-aos="slide-right")
-                img(src='@/assets/curso/t3-i10.png', alt='imagen decorativa')    
+                img(src='@/assets/curso/t3-i10-4.png', alt='imagen decorativa')    
 
         .tarjeta.color-acento-contenido.p-4(titulo="Promoción de ventas")
           .row
@@ -288,7 +288,7 @@
               p Precios por debajo de su valor monetario habitual de forma temporal (puede ser en fecha especiales) con el fin de originar una compra de manera instantánea. Ejemplos: Ciberlunes o <i>Black Friday</i>.
             .col-lg-5
               figure(data-aos="slide-right")
-                img(src='@/assets/curso/t3-i10.png', alt='imagen decorativa')    
+                img(src='@/assets/curso/t3-i10-5.png', alt='imagen decorativa')    
       .row.mb-3.justify-content-center
         .col-lg-10
           .cajon.color-acento-contenido.p-4(data-aos="flip-up")
@@ -297,11 +297,81 @@
                 
 
 
-    Separador
+    Separador.p-0
     br
     br
     #t_3_5.titulo-segundo
       h2 3.5 Activación de marca
+    p.mb-5  Los clientes en la actualidad están más invadidos de publicidad porque, además de los medios tradicionales o masivos (televisión, prensa, radio, revistas, cine, etc.), también están los medios alternativos (correo electrónico, redes sociales, blogs, telefonía celular, etc.). En un contexto así, las acciones de mercadeo alternativo se convierten en una oportunidad muy atractiva. Precisamente una de estas acciones alternativas de mercadeo es la activación de marca.
+    .row.mb-5
+      .col-lg-7
+        .cajon.color-acento-contenido.p-4(data-aos="flip-up")
+          p.mb-0 El concepto se puede definir con aquellas actividades en que la marca tiene una relación directa con el cliente. Esas actividades pertenecen al <i>marketing</i> <b>BTL</b> que es la sigla de <i>Below The Line</i> (o mercadeo alternativo o no tradicional). El mercadeo alternativo se identifica por llamar la atención del cliente de una manera diferente a las demás acciones de comunicación como por ejemplo la publicidad, boletines, promociones o fuerza de ventas.
+        p.mb-3  La más importante ventaja de estas actividades alternativas de mercadeo es que crean un vínculo con el cliente, además de lograr una experiencia significativa y un recuerdo agradable; y suelen usar factores psicológicos de los clientes para alcanzar un mayor impacto en ellos (AA. VV., 2020).
+        p.mb-3  Como se puede ver en los diferentes ejemplos, la activación de marca se refiere a una puesta en escena de un plan de acción que lleve la marca a donde se encuentre el cliente, bien sea un parque, un centro comercial, un escenario público, etc., y donde a través de una idea impactante lo haga pasar un momento memorable, sin este darse cuenta de que fue publicidad.
+      .col-lg-5
+        figure(data-aos="slide-left")
+          img(src='@/assets/curso/t3-i11.png', alt='imagen decorativa')  
+
+    .row.mb-5
+      .col-lg-10
+        .cajon.color-acento-contenido.p-4(data-aos="flip-up")
+          p.mb-0 En esta activación de marca es <b>muy importante que todos los puntos de contacto con los que dispone la empresa para interactuar con sus clientes sirvan para que ellos interactúen con la marca y contribuyan a generar la experiencia que debe ser no solo agradable, sino también significativa.</b> Y más aún importante, lograr que los clientes luego de la experiencia realicen un “voz a voz” positivo con sus contactos, bien sea de manera presencial o virtual a través de redes sociales, <i>WhatsApp</i> y demás herramientas digitales. Resulta más poderosa la recomendación de un amigo, familiar o conocido que la misma publicidad realizada por la marca.
+
+    h3.titulo-tercero Dimensiones de la activación de marca
+    p.mb-5  La activación de marca debe ser de 360º, o sea, usando medios masivos y medios alternativos, para poder comprender todas las dimensiones a través de las cuales pueda crear un vínculo con su público objetivo. Es primordial que estas dimensiones tengan coherencia entre sí y con la marca, que expresen la intención corporativa y que hablen el mismo lenguaje de la marca. Las dimensiones son:
+    TabsA.color-acento-botones.mb-5
+      .tarjeta.color-acento-contenido.p-4(titulo="Comunicación")
+        .row
+          .col-lg-7
+            h4 Comunicación
+            p Es el contenido y la forma en que se desarrolla la idea, y debe ser a través de canales masivos y alternativos, en los que la marca puede mostrar su identidad y estilo a través de los mensajes y del tono que se use en la comunicación.
+          .col-lg-5
+            figure(data-aos="slide-right")
+              img(src='@/assets/curso/t3-i12.png', alt='imagen decorativa')     
+        .row
+          .col-lg-7
+            h4 Productos o servicios
+            p Se refiere a la primera y más importante forma de expresión de una marca. Los productos deben hacer tangible la propuesta de valor. Ello requiere a veces mejorar productos, discontinuar algunos o lanzar productos nuevos que ayuden a lograr los objetivos propuestos en la activación.
+          .col-lg-5
+            figure(data-aos="slide-right")
+              img(src='@/assets/curso/t3-i12-1.png', alt='imagen decorativa')   
+
+        .row
+          .col-lg-7
+            h4 Personas y procesos
+            p Indica que todos los empleados son agentes potenciales de la marca. Con su compromiso es que una marca se construye de forma sólida.
+          .col-lg-5
+            figure(data-aos="slide-right")
+              img(src='@/assets/curso/t3-i12-2.png', alt='pareja recibiendo producto que han comprado')   
+
+        .row
+          .col-lg-7
+            h4 Entornos digitales
+            p Es internet y su ecosistema digital, sitio web, aplicaciones, redes sociales, blog, chat, etc. Y es a través de los cuales los clientes pueden tener un vínculo con la marca luego de la activación, y también a través de los cuales hagan su voz a voz con sus contactos. Los perfiles, mensajes, identidad, posibilidad de diálogo, interacción y retroalimentación por parte de los clientes hacen que esta dimensión se vital en la activación de las marcas.
+          .col-lg-5
+            figure(data-aos="slide-right")
+              img(src='@/assets/curso/t3-i12-3.png', alt='persona realizando compra virtual desde su tablet')   
+
+        .row
+          .col-lg-7
+            h4 Entornos físicos
+            p Se refiera a permitirle al cliente de poder interactuar a través de ambientes físicos como por ejemplo las oficinas, tiendas o stands en donde el cliente pueda dejar comentarios o sugerencias.
+          .col-lg-5
+            figure(data-aos="slide-right")
+              img(src='@/assets/curso/t3-i12-4.png', alt='Mujer seleccionando ropa en una tienda')   
+
+    p.mb-5  Estas dimensiones podrán ser dispuestas por cualquier tipo de empresa, así no tengan la oportunidad de estar en los 360º ya que con una buena estrategia en medios alternativos y una buena inversión en la activación podría llamar la atención del cliente. Para una empresa del sector retail, las dimensiones del entorno físico y las personas son vitales, porque a los clientes los tiene disponibles y cautivos en el momento de la compra dentro del punto de venta y si los trabajadores están comprometidos todo debe salir muy bien a la hora de desarrollar una activación. Eso sí, sin olvidarse de los demás niveles, los cuales deben ser trabajados de manera coherente con la idea y la identidad de la marca para que en medios digitales el cliente tenga la oportunidad de vincularse con la marca y además de referenciarla a sus contactos.
+    
+    h3.titulo-tercero Proceso de activación de marca
+    p.mb-5  Este proceso puede variar según sean las características de la marca e incluso el tipo de actividad que se vaya a realizar para activarla. Sin embargo, se pueden nombrar cinco etapas genéricas:
+    .row.mb-5.justify-content-center
+      .col-lg-10
+
+
+
+
+
 
 
 
