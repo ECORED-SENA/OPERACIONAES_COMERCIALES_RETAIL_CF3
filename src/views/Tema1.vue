@@ -225,22 +225,113 @@
       .col-lg-4
         figure(data-aos="flip-left")
           img(src='@/assets/curso/t1-i14.jpg', alt='imagen decorativa')
-    
-    h4.titulo-cuarto  Localización de las zonas
-    p.mb-5  Son zonas imaginarias que dividen el espacio en dos partes iguales de la siguiente forma:
+      .clearfix.mb-5
+      .col-lg-10
+        h4.titulo-cuarto  Localización de las zonas
+        p.mb-5  Son zonas imaginarias que dividen el espacio en dos partes iguales de la siguiente forma:
+      .row.mb-5.justify-content-center
+        .col-lg-4
+          .nav-holder.align-items-center(data-aos="flip-up")
+            img(src="@/assets/curso/t1-i15.svg", alt="Imagen decorativa")
+            .text.p-lg-3.p-4
+              .row.px-lg-3.mb-lg-2
+                p.h3 Zona caliente
+                p.small Área de circulación de forma natural por parte del cliente. Su técnica consiste en ubicar productos nuevos o de menor rotación.
+
+        .col-lg-4
+          .nav-holder.align-items-center(data-aos="flip-up")
+            img(src="@/assets/curso/t1-i16.svg", alt="Imagen decorativa")
+            .text.p-lg-3.p-4
+              .row.px-lg-3.mb-lg-2
+                p.h3 Zona fría
+                p.small Área de circulación por donde el cliente transita muy poco. Su técnica consiste en ubicar productos de mayor rotación y promociones de venta con el objetivo de hacer transitar a los clientes por todo el lugar. 
+      .clearfix.mb-5
+      .col-lg-10
+        h4.titulo-cuarto  Zonas
+        p.mb-5  Estas se identifican según sea el punto de acceso:
+        .row.mb-5.justify-content-center
+          .col-lg-12
+            .tarjeta.bg-sliders.p-5.mb-5
+              SlyderA
+                .row
+                  .col-md-6.mb-4.mb-md-0
+                    .h4 Puerta a la derecha
+                    p Cuando el lugar de acceso está a la derecha, las zonas resultan de una línea diagonal que nace en el ángulo extremo izquierdo del punto de acceso y va hasta el ángulo extremo derecho más profundo de la superficie del establecimiento.
+                  .col-md-6
+                    figure.py-2
+                      img(src='@/assets/curso/t1-u1.png', alt='imagen decorativa')
+                    figcaption  Puerta a la derecha
+                .row
+                  .col-md-6.mb-4.mb-md-0
+                    .h4 Puerta a la izquierda
+                    p Es lo contrario a la puerta anterior; es la línea diagonal que nace en el ángulo extremo derecho del punto de acceso y va hasta el ángulo extremo izquierdo más profundo de la superficie del establecimiento.
+                  .col-md-6
+                    figure.py-2
+                      img(src='@/assets/curso/t1-u2.png', alt='imagen decorativa')
+                    figcaption  Surtido amplio y poco profundo      
+
+                .row
+                  .col-md-6.mb-4.mb-md-0
+                    .h4 Puerta en el centro
+                    p Se define de acuerdo con la circulación del cliente. Se traza una línea recta vertical hasta el centro del establecimiento y de ahí se traza otra línea recta horizontal hacia el costado izquierdo de la superficie del local. 
+                  .col-md-6
+                    figure.py-2
+                      img(src='@/assets/curso/t1-u3.png', alt='imagen decorativa')
+                    figcaption  Puerta en el centro  
+
+                .row
+                  .col-md-6.mb-4.mb-md-0
+                    .h4 Dos puertas
+                    p Por teoría, prácticamente carece de zonas frías ya que la circulación fluye de acuerdo al ingreso de las dos puertas. Por esto es vital encontrar la localización de las zonas para ubicar las secciones de forma estratégica.
+                  .col-md-6
+                    figure.py-2
+                      img(src='@/assets/curso/t1-u4.png', alt='imagen decorativa')
+                    figcaption  Dos puertas  
+
     .row.mb-5.justify-content-center
-      .col-lg-4
-        //-- Aqui viene el nav holder
-      .col-lg-4
-        //-- Aqui viene el nav holder
+      .col-lg-10
+        h4.titulo-cuarto(data-aos="flip-up")  Ubicación de las secciones
+        p.mb-3  Es la forma en que se organizan las partes del establecimiento. Tiene que ver con la rotación de productos en las diferentes secciones, con las zonas de circulación, las zonas frías y las zonas calientes. Por ejemplo, la sección a la derecha es la de aseo personal, y la sección a la izquierda es la de aseo para el hogar.
+        p.mb-5  La cantidad de secciones va a depender del tipo de local:
+      
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta color-primario")
+          .row.justify-content-center(titulo="Local especializado – Local ultraespecializado")
+            .col-md-6.mb-4.mb-md-0
+              .h4 Localización de las zonas
+              p.mb-5 Posee muy pocas secciones, pero puede tener muchas categorías de productos, tienen profundidad, una venta tradicional, además de familias y subfamilias en los productos.
+              .h4 Local ultraespecializado
+              p.mb-5  Posee solamente una sección, pero está altamente especializado, por ejemplo, solamente vende ropa deportiva. Además, posee una gran profundidad.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t1-l13.svg', alt='Texto que describa la imagen')
+              figcaption  Local especializado – Local ultra especializado
+
+          .row.justify-content-center(titulo="Disposición del movimiento")
+            .col-lg-12
+              p.mb-5  Se puede poner sin seguir ningún trazado, lo que el cliente tendrá libertad de movimiento. También se puede colocar en forma de parrilla o rectangular, o sea que la ubicación de las góndolas es paralela con relación al flujo de clientes. O también se puede ubicar una disposición angular que sitúa las góndolas de manera sesgada al flujo de clientes.
+
+            .col-md-3
+              figure
+                img(src='@/assets/curso/t1-l1.svg', alt='imagen decorativa')            
+            .col-md-3
+              figure
+                img(src='@/assets/curso/t1-l2.svg', alt='imagen decorativa')
+            .col-md-3
+              figure
+                img(src='@/assets/curso/t1-l3.svg', alt='imagen decorativa')
+            .col-md-9.py-2            
+              figcaption  Disposición del movimiento
 
 
-
-
-
-
-
-
+    .row.mb-5.justify-content-center
+      .col-lg-10
+        h4.titulo-cuarto  Diseño de pasillos
+        .row.mb-5.justify-content-center
+          .col-lg-8(data-aos="flip-left")
+            p.mb-3  Los pasillos son los espacios por donde transitan los clientes en el establecimiento, y deben tener un diseño especial e impactante que facilite la compra por parte de los clientes, favoreciendo su andar buscando los productos que necesita comprar. La dimensión o espacio de los pasillos puede representar el éxito o el fracaso del establecimiento, porque si son muy estrechos, no habrá facilidad en la circulación, y si son muy anchos disminuirá la superficie destinada para la venta.
+          .col-lg-4
+            figure(data-aos="flip-up")
+              img(src='@/assets/curso/t1-i17.png', alt='imagen decorativa')        
 
 
 
