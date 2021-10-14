@@ -209,19 +209,30 @@
             figure.slideInLeft
               img(src='@/assets/curso/t1-s4.png', alt='imagen decorativa')
 
-    h3.titulo-tercero La arquitectura exterior del establecimiento
+    h3.titulo-tercero La arquitectura interior del establecimiento
     .row.mb-5
       .col-lg-4
         figure(data-aos="flip-left")
           img(src='@/assets/curso/t1-i13.jpg', alt='imagen decorativa')
       .col-lg-8
-        p.mb-3  El objetivo de su diseño es la creación de un flujo de circulación de clientes que está estratégicamente dirigido en dirección de lugares dentro del establecimiento que, psicológicamente, manipulan y provocan una positiva actitud de compra. Para conseguirlo, resulta fundamental el estudio de los elementos que forman la arquitectura interior.
-        p.mb-3  Así como en la arquitectura exterior, en el interior del establecimiento se debe planear una serie de funciones que permitan certificar el éxito y la calidad del trabajo desarrollado. Para ello, el encargado del merchandising debe resolver dónde localizar y cómo organizar los elementos presentes en la arquitectura interior (Borja, 2021).
-        p.mb-3  La finalidad de la arquitectura interna es la creación de una circulación lógica y fluida dentro del establecimiento, permitiendo que el cliente transite por todas las secciones del local, conformado por:
-
-
-
-
+        p.mb-3(data-aos="slide-left")  El objetivo de su diseño es la creación de un flujo de circulación de clientes que está estratégicamente dirigido en dirección de lugares dentro del establecimiento que, psicológicamente, manipulan y provocan una positiva actitud de compra. Para conseguirlo, resulta fundamental el estudio de los elementos que forman la arquitectura interior.
+        p.mb-3(data-aos="slide-right")  Así como en la arquitectura exterior, en el interior del establecimiento se debe planear una serie de funciones que permitan certificar el éxito y la calidad del trabajo desarrollado. Para ello, el encargado del merchandising debe resolver dónde localizar y cómo organizar los elementos presentes en la arquitectura interior (Borja, 2021).
+        p.mb-3(data-aos="slide-left")  La finalidad de la arquitectura interna es la creación de una circulación lógica y fluida dentro del establecimiento, permitiendo que el cliente transite por todas las secciones del local, conformado por:
+    .row.mb-5.justify-content-center
+      .col-lg-6
+        h4.titulo-cuarto  Puntos de acceso
+        p.mb-3  Su finalidad es la de ubicar al cliente una vez dentro del establecimiento, y la estrategia es la de ubicarlo en el lugar donde comienza una circulación natural. A partir de allí, las personas transitan y se dirigen al centro del local y luego giran en sentido contrario a las manecillas del reloj.  
+      .col-lg-4
+        figure(data-aos="flip-left")
+          img(src='@/assets/curso/t1-i14.jpg', alt='imagen decorativa')
+    
+    h4.titulo-cuarto  Localización de las zonas
+    p.mb-5  Son zonas imaginarias que dividen el espacio en dos partes iguales de la siguiente forma:
+    .row.mb-5.justify-content-center
+      .col-lg-4
+        //-- Aqui viene el nav holder
+      .col-lg-4
+        //-- Aqui viene el nav holder
 
 
 
