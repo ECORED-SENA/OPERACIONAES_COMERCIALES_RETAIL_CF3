@@ -96,31 +96,128 @@
 
     p.mb-5  A continuación, se presentan los tipos de formatos comerciales tradicionales:
     .neg-margin-x.bg-curved
-      AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
-        .row.justify-content-center(titulo="Titulo item 1")
-          .col-md-10.mb-4.mb-md-0
-            p This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
-        
+      AcordionA(tipo="b" clase-tarjeta="tarjeta customCard")
+        .row.justify-content-center(titulo="Tiendas")
+          .col-md-8.mb-4.mb-md-0
+            p.mb-3  Es un tipo de establecimiento que ofrece bienes o servicios al detal, es decir, por unidad. No existe la venta al por mayor, o sea, grandes cantidades de un producto.
+            p.mb-3  Son pequeños en tamaño y ofrecen atención directa por parte de un asesor cuando se requiera; además, supone la presencia de mostradores que cumplen la función de separar y dividir la sala de ventas con respecto a los artículos que están a la venta. Ejemplo: D1.
           .col-md-2
             figure
-              img(src='@/assets/template/img-placeholder.svg', alt='Texto que describa la imagen')
+              img.nW(src='@/assets/curso/t1-i4.png', alt='Logo de tienda')
+
+        .row.justify-content-center(titulo="Almacenes")
+          .col-md-8.mb-4.mb-md-0
+            p.mb-3  Son establecimientos ubicados en zonas residenciales que surten de una variedad amplia de productos al público cercano.
+            p.mb-3  También se les puede conocer con los nombres de bodegueros, pulperos o tenderos. Ejemplo: ARA.
+          .col-md-2
+            figure
+              img.nW(src='@/assets/curso/t1-i5.png', alt='Logo de almacen')
+
+        .row.justify-content-center(titulo="Supermercados")
+          .col-md-8.mb-4.mb-md-0
+            p.mb-3  Tienda de autoservicio donde se exhiben alimentos y productos para el hogar o el aseo en régimen de autoservicio. Uno de los factores clave de éxito de los supermercados es la proximidad al cliente, o sea, que tenga poca distancia con respecto al consumidor, que esté cerca de él. Se encuentran ubicados dentro de las ciudades. Ejemplo: La Vaquita.
+          .col-md-2
+            figure
+              img.nW(src='@/assets/curso/t1-i6.png', alt='Logo de supermercado')
+
+        .row.justify-content-center(titulo="Hipermercados")
+          .col-md-8.mb-4.mb-md-0
+            p.mb-3  Se diferencian por tener un tamaño más grande, con un surtido más amplio y por tener locales fuera de la ciudad. Cuentan con amplios parqueaderos, autoservicio, una gran superficie de ventas que les permite ofrecer una amplia cantidad y variedad de productos y, además, presentan al cliente una facilidad para llegar en carro. Ejemplo: Almacenes Éxito.
+          .col-md-2
+            figure
+              img.nW(src='@/assets/curso/t1-i7.png', alt='Logo de Hipermercado')
+
+        .row.justify-content-center(titulo="Grandes almacenes")
+          .col-md-8.mb-4.mb-md-0
+            p.mb-3  Se diferencian por tener un tamaño más grande, con un surtido más amplio y por tener locales fuera de la ciudad. Cuentan con amplios parqueaderos, autoservicio, una gran superficie de ventas que les permite ofrecer una amplia cantidad y variedad de productos y, además, presentan al cliente una facilidad para llegar en carro. Ejemplo: Almacenes Éxito.
+          .col-md-2
+            figure
+              img.nW(src='@/assets/curso/t1-i8.png', alt='Logo de Gran almacen')
+
+        .row.justify-content-center(titulo="Tiendas especializadas")
+          .col-md-8.mb-4.mb-md-0
+            p.mb-3  Es el concepto de tienda evolucionado a tiendas especializadas de gran tamaño, que presentan el autoservicio para el cliente, constituyéndose en grandes supermercados especializados. No tienen de todo, pero sí poseen un gran surtido dentro de su especialización. Por ejemplo, una tienda que sea especializada en tecnología, solo ofrecerá productos tecnológicos. Ejemplo: Ktronix.
+          .col-md-2
+            figure
+              img.nW(src='@/assets/curso/t1-i9.png', alt='Logo de Tienda especializada')
+
+        .row.justify-content-center(titulo="Mercados municipales o comunales")
+          .col-md-8.mb-4.mb-md-0
+            p.mb-3  Son establecimientos de propiedad municipal o privada que en su interior tienen una variedad amplia de “puestos de venta” o “puestos de mercado”, que tienen una construcción estable reservada para la venta de productos alimenticios. 
+            p.mb-3  El comprador y el vendedor son sus más importantes participantes. Están formados en su interior por estos puestos de venta individuales en los que el cliente puede elegir el producto según sea su necesidad. Cada puesto tiene su propio espacio que es especializado (carnicería, frutas y verduras, abarrotes, etc.). 
+          .col-md-2
+            figure
+              img.nW(src='@/assets/curso/t1-i10.png', alt='Logo de Mercado municipal')              
+
+        .row.justify-content-center(titulo="Galerías y centros comerciales")
+          .col-md-8.mb-4.mb-md-0
+            p.mb-3  Son establecimientos que agrupan en su interior a una gran cantidad de tipos de comerciantes que, por lo general, son especializados como por ejemplo artículos deportivos, bancos, peluquerías, ropa, restaurantes, salas de belleza, zona de comidas rápidas, entre otros.
+            p.mb-3  La diferencia entre galería y centro comercial es que la galería tiene un tamaño pequeño y el centro comercial posee un tamaño más grande.
+          .col-md-2
+            figure
+              img.nW(src='@/assets/curso/t1-i11.png', alt='Logo de centro comercial')         
+
+        .row.justify-content-center(titulo="Tiendas por departamentos")
+          .col-md-8.mb-4.mb-md-0
+            p.mb-3  Son establecimientos de gran tamaño que ordenan los productos que ofrecen en su interior en departamentos o categoría como ejemplo ferretería, ropa para damas, ropa para caballeros, productos para el hogar, tecnología, entre otros. Requieren de muchos empleados para poder entregar una buena atención al cliente. Ejemplo: Alkosto.
+          .col-md-2
+            figure
+              img.nW(src='@/assets/curso/t1-i12.png', alt='Logo de centro comercial')    
 
 
-
-
-
-    Separador
+    Separador.p-0
     br
     br
     #t_1_3.titulo-segundo
       h2 1.3  Arquitectura del establecimiento
+    p.mb-5  Hay diferentes tipos de arquitectura que se pueden apreciar en los diferentes establecimientos, a saber:
 
+    h3.titulo-tercero La arquitectura exterior del establecimiento
+    p.mb-5  Son cuatro los elementos que conforman el diseño exterior de cualquier establecimiento. Estos elementos ayudan a mostrar la personalidad e identidad de una marca, contribuyendo a posicionar su imagen corporativa en la mente de los consumidores (Borja, 2021) y son:
 
+    .tarjeta.bg-sliders.p-5.mb-5
+      SlyderA
+        .row
+          .col-md-6.mb-4.mb-md-0
+            .h4 La identidad
+            p Tiene que ver con el rótulo comercial: nombre, distintivo visual, colores, fuentes y diseño de la fachada, formando el rótulo corporativo, que tiene por objetivo la identificación del establecimiento.
+          .col-md-6
+            figure
+              img(src='@/assets/curso/t1-s1.png', alt='imagen decorativa')
+        .row
+          .col-md-6.mb-4.mb-md-0
+            .h4 La puerta de entrada
+            p Se debe adaptar de manera fiel a la identidad y al concepto empresarial de acuerdo con el tipo de establecimiento comercial. Por ello, se hace vital que su diseño sea apropiado de tal forma que potencie la facilidad de acceso al establecimiento, y que invite al transeúnte a ingresar. 
+          .col-md-6
+            figure.slideInLeft
+              img(src='@/assets/curso/t1-s2.png', alt='imagen decorativa')
 
+        .row
+          .col-md-6.mb-4.mb-md-0
+            .h4 El escaparate
+            p.mb-3 Es la vidriera comercial, es el más importante vehículo de comunicación entre el establecimiento y el cliente. Debe sintetizar y reflejar el estilo de la tienda, su identidad, lo que es y lo que ofrece. 
+            p.mb-3  Se le considera como un excelente vendedor y tiene un carácter particularmente persuasivo y dominante sobre el cliente, siempre y cuando su diseño haga su función de impactar y llamar la atención. Permanece activo las veinticuatro horas del día, pero como desventaja su mensaje se capta por parte de los transeúntes en solo unos breves segundos. Por ello, la importancia de ser impactante para llamar la atención.
+          .col-md-6
+            figure.slideInLeft
+              img(src='@/assets/curso/t1-s3.png', alt='imagen decorativa')
 
+        .row
+          .col-md-6.mb-4.mb-md-0
+            .h4 Fachada
+            p.mb-3 Es el diseño arquitectónico que tiene el establecimiento en su exterior. Si la empresa tiene varias sedes, debe ser muy parecido el diseño de tal manera que tenga una unidad visual que permita ser reconocido por los clientes en cuanto lo vean. En ella es donde va el rótulo comercial, por lo general muy cerca de la puerta principal de acceso al establecimiento.
+          .col-md-6
+            figure.slideInLeft
+              img(src='@/assets/curso/t1-s4.png', alt='imagen decorativa')
 
-
-
+    h3.titulo-tercero La arquitectura exterior del establecimiento
+    .row.mb-5
+      .col-lg-4
+        figure(data-aos="flip-left")
+          img(src='@/assets/curso/t1-i13.jpg', alt='imagen decorativa')
+      .col-lg-8
+        p.mb-3  El objetivo de su diseño es la creación de un flujo de circulación de clientes que está estratégicamente dirigido en dirección de lugares dentro del establecimiento que, psicológicamente, manipulan y provocan una positiva actitud de compra. Para conseguirlo, resulta fundamental el estudio de los elementos que forman la arquitectura interior.
+        p.mb-3  Así como en la arquitectura exterior, en el interior del establecimiento se debe planear una serie de funciones que permitan certificar el éxito y la calidad del trabajo desarrollado. Para ello, el encargado del merchandising debe resolver dónde localizar y cómo organizar los elementos presentes en la arquitectura interior (Borja, 2021).
+        p.mb-3  La finalidad de la arquitectura interna es la creación de una circulación lógica y fluida dentro del establecimiento, permitiendo que el cliente transite por todas las secciones del local, conformado por:
 
 
 
