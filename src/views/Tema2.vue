@@ -372,6 +372,74 @@
     br
     #t_2_3.titulo-segundo
       h2 2.3  <i>Layout</i>
+    p.mb-5.text-bold  Se refiere al diseño o disposición de los productos (bienes y servicios) en sectores o categorías en el punto de venta del establecimiento. Para el <i>retail</i> es un concepto técnico tan importante que perfectamente puede estar incluido dentro de las estrategias en un plan de <i>marketing</i>.
+    .row.mb-5
+      .col-lg-7
+        .cajon.color-primario.p-4.mb-4(data-aos='flip-up')
+          p.mb-0  Este busca la instalación óptima de los componentes, activos o pasivos, para alcanzar los volúmenes requeridos disminuyendo el gasto en mano de obra, movimientos, existencias o almacenamientos intermedios, además de la inactividad o espera de los equipos.
+        p.mb-3  En cuanto al mercadeo, el layout se refiere al emplazamiento de los bienes o servicios en cualquier tipo de establecimiento, o sea, a su organización estratégica con el fin de disminuir el consumo de mano de obra y certificar la correcta exhibición de los artículos. El <i>marketing-layout</i> tiene como objeto aumentar las ventas por metro cuadrado, agrupando o separando los artículos con base a los criterios de consumo que identifiquen a un determinado mercado. Por ejemplo, en el tema de las estanterías se suele elegir entre dos tipos de layout: rectangular o angular (Martínez, 2016).
+
+      .col-lg-5
+        figure(data-aos='flip-left')
+          img(src='@/assets/curso/t2-i8.jpg', alt='imagen decorativa')     
+    
+    h3.titulo-tercero Tipos de <i>layout</i>
+    p.mb-5  A continuación, se presentan cinco (5) tipos de <i>layout</i> diferentes utilizados en los establecimientos:
+    .row.mb-5.justify-content-center
+      .col-lg-10
+          PasosA.color-primario.mb-5(tipo="n")
+            .row
+              .col-md-6.mb-4.mb-md-0
+                h3 Diseño recto
+                p Normalmente usado en establecimientos que tienen venta al por menor. Puede confundir y frustrar, porque no se puede ver por encima del mobiliario; es más económico.
+              .col-md-6
+                figure
+                  img(src='@/assets/curso/t2-m1.svg', alt='imagen decorativa')
+                  figcaption Diseño recto
+            .row
+              .col-md-6.mb-4.mb-md-0
+                figure
+                  img(src='@/assets/curso/t2-m2.svg', alt='imagen decorativa')
+                  figcaption Diseño diagonal
+              .col-md-6
+                h3 Diseño diagonal
+                p.mb-3  Presenta una buena distribución del espacio para los establecimientos de autoservicio o tiendas minoristas.
+                p.mb-3  Posee una muy buena visibilidad para los cajeros y clientes.
+                p.mb-3  Permite el movimiento y el flujo de tráfico a la tienda.
+            .row
+              .col-md-6.mb-4.mb-md-0
+                h3 Diseño angular 
+                p.mb-3 Es la mejor opción para los establecimientos especializados de alta gama. Las curvas y ángulos de los muebles permiten al cliente apreciar mejor los artículos. Favorecen una mejor circulación dentro del establecimiento.
+                p.mb-3  Es el más costoso por las curvas y los ángulos de los muebles.
+              .col-md-6
+                figure
+                  img(src='@/assets/curso/t2-m3.svg', alt='imagen decorativa')
+                  figcaption Diseño angular 
+            .row
+              .col-md-6.mb-4.mb-md-0
+                figure
+                  img(src='@/assets/curso/t2-m4.svg', alt='imagen decorativa')
+                  figcaption Diseño geométrico
+              .col-md-6
+                h3 Diseño geométrico
+                p.mb-3  Es el diseño apropiado para exhibición de ropa o tiendas departamentales.
+                p.mb-3  Se utilizan bastidores y mobiliario especial para lucir un diseño interesante con un precio económico.
+
+            .row
+              .col-md-6.mb-4.mb-md-0
+                h3 Diseño mixto
+                p.mb-3 Integra diseños rectos, diagonales y con ángulos planos para generar un diseño funcional. Mueve el tráfico hacia los muros y el fondo del establecimiento.
+
+              .col-md-6
+                figure
+                  img(src='@/assets/curso/t2-m5.svg', alt='imagen decorativa')
+                  figcaption Diseño mixto
+
+    h3.titulo-tercero Formatos del <i>layout</i>
+    p.mb-3  Se distinguen dos (2) categorías principales, layout con transformación y sin transformación:
+    
+
+
 
 
 
