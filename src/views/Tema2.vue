@@ -437,18 +437,127 @@
 
     h3.titulo-tercero Formatos del <i>layout</i>
     p.mb-3  Se distinguen dos (2) categorías principales, layout con transformación y sin transformación:
+    .row.mb-5.justify-content-center
+      .col-lg-10
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta color-primario")
+          .row.justify-content-center(titulo="<i>Layout</i> con transformación")
+            .col-md-2.mb-4.mb-md-0
+              figure
+                img.nW.centered(src='@/assets/curso/t2-ic1.svg', alt='imagen decorativa')
+            .col-md-10.mb-4.mb-md-0  
+              p.mb-3  <b><i>Layout</i> por proceso:</b> los componentes son agrupados por la función especial que cumplen, sin referirse a ningún producto en especial (por ejemplo, talleres por encargo).
+              p.mb-3  <b><i>Layout</i> por producto:</b> los componentes se ordenan en función de las etapas por las cuales pasa el producto, desde la entrada de la materia prima hasta la salida del producto terminado (por ejemplo, montaje de automóviles).
+              p.mb-3  <b><i>Layout</i> por posición fija: </b> el producto por sus características permanece inmovilizado y los diversos medios de fabricación requeridos se sitúan alrededor del mismo (por ejemplo, aviones, astilleros). Los medios de producción inmovilizados sirven para la fabricación de más de una unidad.
+              p.mb-3  <b><i>Layout</i> por proyecto: </b> se refiere a situaciones especiales, como construcción de edificios o carreteras. A veces coincide este formato con el de posición fija, pero el de proyectos debe planearse teniendo en cuenta el terreno particular en el que se lleva a cabo la tarea, el cual puede sufrir cambios.
+
+          .row.justify-content-center(titulo="<i>Layout</i> sin transformación")
+            .col-md-2.mb-4.mb-md-0
+              figure
+                img.nW.centered(src='@/assets/curso/t2-ic2.svg', alt='imagen decorativa')
+            .col-md-10.mb-4.mb-md-0  
+              p.mb-3  <b><i>Layout</i> del almacenamiento:</b> el objetivo es cumplir con una función de inventario y analiza la colocación de los componentes en un almacén.
+              p.mb-3  <b><i>Marketing layout:</i></b> los componentes se ubican de forma tal de facilitar la venta (por ejemplo, supermercados). 
+
+    .row.mb-5
+      .col-lg-8
+        p.mb-3  Los objetivos del <i>Layout</i> de los establecimientos comerciales son mejorar la rapidez para preparar los pedidos, facilitar la exactitud de estos y la ubicación más eficiente del surtido. Si todo lo anterior se logra, se pueden potencializar las ventajas competitivas de la empresa que están incluidas en el plan estratégico, por lo general adquiriendo ciclos de pedido con mayor rapidez y con mejor servicio al cliente.
+        p.mb-3  Fases fundamentales en el diseño de un almacén:
+        ul.lista-ul(data-aos='flip-left')
+          li
+            i.fas.fa-check
+            p.mb-0  <b>Fase de diseño de la instalación.</b> Se elige el tipo de layout para el establecimiento.
+          li
+            i.fas.fa-check
+            p.mb-0  <b>Fase de diseño de la disposición de los elementos que deben "decorar" el almacén.</b> Se procede a crear el layout en el almacén. La exhibición debe estar lista y los muebles deben tener todo el contenido de artículos, señalética y PLV.
+
+      .col-lg-4    
+        figure(data-aos='flip-up')
+           img(src='@/assets/curso/t2-i9.png', alt='imagen decorativa')
+
+    h3.titulo-tercero Características del <i>Layout</i>
+    p.mb-3  Disminuye la cantidad de movimientos del surtido, además de su manipulación, mermas e incluso robos, lo que hace que el inventario sea exacto. También hace que el establecimiento tenga una buena distribución evitando zonas congestionadas y, por último, facilita la gestión de mantenimiento del surtido (Martínez, 2016).
     
-
-
-
-
-
+    
 
     Separador
     br
     br
-    #t_2_4.titulo-segundo
-      h2 2.4  La exhibición de productos
+    .neg-margin-x.bg-curved
+      #t_2_4.titulo-segundo
+        h2 2.4  La exhibición de productos
+
+      p.mb-5.text-bold  Consiste en la selección, ubicación y exposición de los artículos en el punto de venta, de tal forma que llamen la atención de los clientes motivándolos a una acción de compra. Según sea el tamaño y tipo de establecimiento va a condicionar la distribución y exhibición de los productos.
+      .row.mb-5
+        .col-lg-4
+          figure(data-aos='flip-left')
+            img(src='@/assets/curso/t2-i19.png', alt='imagen decorativa')
+        .col-lg-8
+          p.mb-3  La exposición de los artículos en un almacén o establecimiento se hace mediante el uso de un mobiliario especial que permite mostrar al cliente la mayor cantidad de productos, durante el mayor tiempo posible.
+          p.mb-3  Los objetivos de la exhibición son:
+          ul.lista-ul(data-aos='flip-left')
+            li
+              i.fas.fa-check
+              p.mb-0  Llamar la atención del cliente para que vea los productos.
+            li
+              i.fas.fa-check
+              p.mb-0  Generar fidelidad hacia el establecimiento.
+            li
+              i.fas.fa-check
+              p.mb-0  Exhibir los productos.
+            li
+              i.fas.fa-check
+              p.mb-0  Ofrecer comodidad al cliente.
+            li
+              i.fas.fa-check
+              p.mb-0  Disponer de pasillos amplios entre los muebles exhibidores.  
+            li
+              i.fas.fa-check
+              p.mb-0  Apoyar las promociones de venta (descuentos, ofertas, 2x1, etc.).
+            li
+              i.fas.fa-check
+              p.mb-0  Recordar al cliente la presencia de un producto que pueda estar necesitando.
+            li
+              i.fas.fa-check
+              p.mb-0  Motivar la acción de compra por impulso.
+
+      p.mb-5  Según sea la disposición del establecimiento, <b>el administrador que es el responsable del lugar y de la exhibición, tiene como objetivo organizarlo según:</b>
+      ol.lista-ol--cuadro
+        li 
+          .lista-ol--cuadro__vineta
+            span 1
+          p Situación de las secciones.
+        li 
+          .lista-ol--cuadro__vineta
+            span 2
+          p La circulación.
+        li 
+          .lista-ol--cuadro__vineta
+            span 3
+          p Lugares y puntos de venta fríos y calientes.
+        li 
+          .lista-ol--cuadro__vineta
+            span 4
+          p Elementos en el exterior del punto de venta.
+        li 
+          .lista-ol--cuadro__vineta
+            span 5
+          p Áreas complementarias: bodegaje, servicios adicionales y entretenimiento.
+
+      p.mb-5  Una vez organizado el interior del establecimiento, determinadas las diferentes secciones y definidos los espacios de los pasillos, se puede considerar el uso de los tipos de exhibición y el <i>Layout</i> del surtido.
+
+      h3.titulo-tercero Tipos de exhibición
+      .row.mb-5
+        .col-lg-7
+          p.mb-3  No importa cuál sea el tipo de exhibición que se elija en el establecimiento, deberá motivar en el cliente la acción de compra, por lo que se deben tener en cuenta las actividades programadas en el punto de venta, lo mismo que la temporada y los objetivos de venta. De esta manera, se puede pensar en tener “exhibiciones especiales” y “exhibiciones secundarias o adicionales” (por fuera del lineal y la góndola).
+          p.mb-3  Una exhibición debe contar con una excelente exposición de los productos para poder llamar la atención del público que con frecuencia visita el establecimiento. En cada sección se debe emplear un buen merchandising y utilizar los mejores elementos para su producción, lo cual es vital en la rotación del artículo que forme parte de la exhibición.
+          p.mb-3  Por lo general, los clientes toman las decisiones de compra directamente en el punto de venta, por lo que una efectiva exhibición de los artículos puede influir positivamente en la toma de decisión.
+          p.mb-3  Los siguientes son algunos de los tipos de exhibición más comunes:
+        
+        .col-lg-5
+          figure(data-aos='flip-left')
+            img(src='@/assets/curso/t2-11.png', alt='imagen decorativa')
+
+      p.mb-5.text-bold  Los siguientes son algunos de los tipos de exhibición más comunes:
 
 
 
