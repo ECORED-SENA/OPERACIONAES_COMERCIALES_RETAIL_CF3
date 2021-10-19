@@ -559,6 +559,21 @@
 
       p.mb-5.text-bold  Los siguientes son algunos de los tipos de exhibición más comunes:
 
+      .row.mb-5
+        .col-lg-3
+          figure(data-aos='flip-left')
+            img(src='@/assets/curso/t2-12.png', alt='imagen decorativa')
+        .col-lg-9
+          ol.lista-ol--cuadro
+            li 
+              .lista-ol--cuadro__vineta
+                span 1
+              p.mb-0 <b>Exhibición vertical:</b> Los productos se ubican de manera que cubran todos los niveles del lineal o góndola. Los de tamaños más pequeños van arriba, los medianos van en medio y los de mayor tamaño en los niveles bajos del anaquel.
+
+
+
+
+
 
 
 
