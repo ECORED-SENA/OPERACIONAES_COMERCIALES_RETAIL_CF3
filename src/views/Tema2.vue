@@ -570,11 +570,90 @@
                 span 1
               p.mb-0 <b>Exhibición vertical:</b> Los productos se ubican de manera que cubran todos los niveles del lineal o góndola. Los de tamaños más pequeños van arriba, los medianos van en medio y los de mayor tamaño en los niveles bajos del anaquel.
 
+            li 
+              .lista-ol--cuadro__vineta
+                span 2
+              p.mb-0 <b>Exhibición horizontal:</b> El producto se ubica en sus diferentes variedades, a lo largo de la estantería.
 
+            li 
+              .lista-ol--cuadro__vineta
+                span 3
+              p.mb-0 <b>Exhibición por bloques:</b> El producto se ubica en bloques en la estantería.
+            li 
+              .lista-ol--cuadro__vineta
+                span 4
+              p.mb-0 <b>Exhibición de doble franja:</b> En la misma estantería se exhiben dos líneas de productos que guardan alguna relación, una debe ser muy fuerte, (productos de gran consumo o básicos), y la otra línea con productos de impulso (dulces, chocolates, chicles, paletas).
+              
+            li 
+              .lista-ol--cuadro__vineta
+                span 5
+              p.mb-0 <b>Exhibición en <i>check out:</i></b> En la misma estantería se exhiben dos líneas de productos que guardan alguna relación, una debe ser muy fuerte, (productos de gran consumo o básicos), y la otra línea con productos de impulso (dulces, chocolates, chicles, paletas).
 
+            li 
+              .lista-ol--cuadro__vineta
+                span 5
+              p.mb-0 <b>Exhibición especial:</b> Tiene un diseño diferente al de un lineal, góndola o estantería. Puede ser un  exhibidor diseñado exclusivamente para el producto, o también puede ser una isla, y por lo general se usa cuando hay una promoción de venta o se está lanzando un nuevo producto.
+      .row.mb-5.justify-content-center
+        .col-lg-10
+          .cajon.color-primario.p-4
+            p.mb-0  La cantidad de formas para exhibir los productos en el punto de venta es muy amplia y variada. Lo importante es que son aplicables a cualquier establecimiento comercial, de tal forma que los espacios sean aprovechados al máximo al interior del local. Por esta razón, es vital planear adecuadamente en qué forma se van a exhibir los artículos, cómo se van a distribuir los lineales, las góndolas, los muebles, las vitrinas, el escaparate y demás elementos que le darán forma al establecimiento.
+      
+      p.mb-5  Exhibiciones adicionales o complementarias:            
+      .tarjeta.bg-sliders2.p-5.mb-5.shadow-box
+        SlyderA
+          .row
+            .col-md-6.mb-4.mb-md-0
+              .h4 Exhibición emblemática o especial
+              p Es un <i>display</i> que busca destacar las características específicas de los productos. Puede ser diseñado de muchas formas.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t2-n1.png', alt='imagen decorativa')
+          .row
+            .col-md-6.mb-4.mb-md-0
+              .h4 Exhibición en islas
+              p Es una forma de presentación masiva y solitaria de un artículo. Se ubican fuera del lineal o góndola y no tienen contacto con otro tipo de artículos.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t2-n2.png', alt='imagen decorativa')
+          .row
+            .col-md-6.mb-4.mb-md-0
+              .h4 Exhibición en ganchos
+              p Especial para tiendas de ropa, de tal forma que se pueda crear un diseño impactante a la hora de colgar el vestuario de los ganchos. 
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t2-n3.png', alt='imagen decorativa')
 
+          .row
+            .col-md-6.mb-4.mb-md-0
+              .h4 Exhibición en punta de góndola
+              p Están ubicados en las esquinas de las góndolas, por lo que tienen un mayor impacto, aumentando la comunicación visual, con accesorios que lo hacen más atractivo como cabezotes, laterales, frontales, cenefas y partes móviles. Ayudan a posicionar una marca.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t2-n4.png', alt='imagen decorativa')
 
+          .row
+            .col-md-6.mb-4.mb-md-0
+              .h4 Exhibición mamut
+              p Son de gran tamaño, versátiles y con un excelente contenido escenográfico, cuyo fin es presentar variedad de productos de una marca en el mismo lugar personalizándolo para impactar visualmente al cliente a través de diseños lúdicos.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t2-n4.png', alt='imagen decorativa')
+      .spacer
+      .row.justify-content-center.mb-5
+        .col-lg-10
+          .cajon.color-primario.p-4(data-aos='flip-up')
+            p.mb-0  Una exhibición debe tener un grupo de características que avalen su funcionalidad y logren que se cumplan los objetivos del establecimiento. Por esta razón, la exhibición debe ser visible y atractiva a los ojos del cliente y, además, debe comunicar, puesto que el merchandising es comunicación visual en el interior del establecimiento.
+      
+      .row.justify-content-center
+        .col-lg-7
+          h3.titulo-tercero Características de la exhibición
+          p.mb-3  En primer lugar, se recomienda que <b>la exhibición ambiente el punto de venta</b>, lo cual debe venir con una presentación llamativa de los artículos, además de colorida, imponente y al alcance de los clientes, con precios justos y cuando sea posible, con degustaciones que hagan que el consumidor conozca de primera mano un producto.
+          p.mb-0  Una exhibición debe reunir las siguientes características: <b>sencilla, visible, atractiva, accesible, comunicativa, rellenable, segura, alegre, limpia, estable y con precio visible </b>(Cruz, 2018).
+        .col-lg-5
+          figure
+            img(src='@/assets/curso/t2-13.png', alt='imagen decorativa')
 
+         
 
 
     Separador
@@ -582,9 +661,38 @@
     br
     #t_2_5.titulo-segundo
       h2 2.5 Vitrinismo o <i>visual merchandising</i>
+    .row.justify-content-center.mb-5
+      .col-lg-7
+        p.mb-3  Son todas las técnicas y estrategias que se emplean en el diseño de un escaparate o vitrina con el fin de conquistar los clientes que transitan en el establecimiento, incitarlos e invitarlos a que realicen la compra de los productos exhibidos. El vitrinismo funciona como comunicador visual y conceptual que funciona en pro de conquistar al consumidor. La vitrina es un lienzo en blanco donde puede formar toda la creatividad para convertirla en una obra de arte (Borja, 2021).
+        p.mb-3  Según Joan Costa, la vitrina tiene un tiempo de percepción de 8 segundos para atraer la atención de un cliente. Es por esto por lo que la vitrina se debe trabajar con argumentos comunicacionales, que resalten los artículos, la sencillez y la creatividad. La idea, la composición, el color, las piezas gráficas, la línea y la iluminación deben ir de la mano para que la vitrina sea llamativa, impactante y una experiencia emocional e inolvidable para el cliente (Costa, 2007).
+      .col-lg-5
+        figure
+          img(src='@/assets/curso/t2-14.png', alt='imagen decorativa')
 
-
-
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .bloque-texto-g.custom-cardBlock.color-primario.p-3.p-sm-4.p-md-5.mb-5
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/t2-cb1.jpg')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            p.mb-4  Elementos que componen una vitrina:
+            ul.lista-ul
+              li
+                i.fas.fa-check
+                p.mb-0  Creatividad
+              li
+                i.fas.fa-check
+                p.mb-0  Sicología y percepción
+              li
+                i.fas.fa-check
+                p.mb-0  Composición de los elementos
+              li
+                i.fas.fa-check
+                p.mb-0  Color
+              li
+                i.fas.fa-check
+                p.mb-0  Iluminación         
 
 
     Separador
