@@ -1000,21 +1000,25 @@
           .col-md-6
             figure
               img.nW.centered(src='@/assets/curso/t2-b5.svg', alt='imagen decorativa')
-    
+    .spacer
     .row.mb-5.justify-content-center
       .col-lg-6
-        ImagenInfografica.color-secundario.mb-5
+        ImagenInfografica.color-primario.mb-5
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/t2-infog1.svg', alt='señaletica por colores')
 
-          .tarjeta.color-acento-botones.p-3(x="20%" y="20%")
-            .h5.mb-2 titulo
-            p Lorem ipsum dolor Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
+          .tarjeta.color-acento-botones.p-3.shadow-box(x="2%" y="50%")
+            p Condición de seguridad, su uso es principalmente para señales de ruta de evacuación y emergencia.
+            p <b>Contraste:</b> Verde - Blanco <br> <b>Forma</b>: Rectangular
 
+          .tarjeta.color-acento-botones.p-3.shadow-box(x="25%" y="12%")
+            p Prohibición, prevención de fuego, equipo, contra incendios, paradas de emergencia.
+            p <b>Contraste:</b> Rojo - Blanco <br> <b>Forma</b>: Circular - Rectangular
 
-
-
+          .tarjeta.color-acento-botones.p-3.shadow-box(x="75%" y="12%")
+            p Acción del mando, obligación a usar equipo de protección. Es de seguridad cuando se usa en forma circular.
+            p <b>Contraste:</b> Azul - Blanco <br> <b>Forma</b>: Circular
 
 
 
