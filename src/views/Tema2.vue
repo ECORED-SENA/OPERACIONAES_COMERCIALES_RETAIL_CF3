@@ -591,7 +591,7 @@
 
             li 
               .lista-ol--cuadro__vineta
-                span 5
+                span 6
               p.mb-0 <b>Exhibición especial:</b> Tiene un diseño diferente al de un lineal, góndola o estantería. Puede ser un  exhibidor diseñado exclusivamente para el producto, o también puede ser una isla, y por lo general se usa cuando hay una promoción de venta o se está lanzando un nuevo producto.
       .row.mb-5.justify-content-center
         .col-lg-10
@@ -695,14 +695,202 @@
                 p.mb-0  Iluminación         
 
 
+    h3.titulo-tercero Tipos de vitrina o escaparate
+    TabsA.color-primario.mb-5
+      .tarjeta.color-acento-contenido.p-4(titulo="Vitrina exterior")
+        .row
+          .col-lg-6
+            h4 Vitrina exterior
+            p.mb-3  Por lo general se encuentra a los lados del ingreso a la tienda, especialmente cuando ésta está ubicada en un centro comercial.
+            p.mb-3  La idea es la de llamar la atención del cliente y ofrecerle una breve información, básica e imaginativa, provocándole curiosidad por conocer más. 
+          .col-lg-6
+            figure(data-aos="slide-right")
+              img(src='@/assets/curso/t2-p1.png', alt='imagen decorativa')     
+    
+      .tarjeta.color-acento-contenido.p-4(titulo="Vitrina cerrada")
+        .row
+          .col-lg-6
+            h4 Vitrina cerrada
+            p.mb-3  Cuando el diseño de la vitrina no permite ver hacia adentro del establecimiento.
+          .col-lg-6
+            figure(data-aos="slide-right")
+              img(src='@/assets/curso/t2-p2.png', alt='imagen decorativa')   
+      .tarjeta.color-acento-contenido.p-4(titulo="Vitrina abierta")
+        .row
+          .col-lg-6
+            h4 Vitrina abierta
+            p.mb-3  Cuando el diseño de la vitrina no permite ver hacia adentro del establecimiento.
+          .col-lg-6
+            figure(data-aos="slide-right")
+              img(src='@/assets/curso/t2-p3.png', alt='imagen decorativa')   
+      .tarjeta.color-acento-contenido.p-4(titulo="Vitrina interior")
+        .row
+          .col-lg-6
+            h4 Vitrina interior
+            p.mb-3  Cuando el producto se exhibe dentro de la tienda en una vitrina que está ubicada en la zona caliente.
+          .col-lg-6
+            figure(data-aos="slide-right")
+              img(src='@/assets/curso/t2-p4.png', alt='imagen decorativa')   
+
+    p.mb-5  En cuanto a las vitrinas de tipo exterior, se debe tener tres elementos que resultan vitales:
+    .row.mb-5
+      .col-lg-4
+        .tarjeta.text-center.h-100.c1.p-4(data-aos="flip-right")
+          figure.mb-3
+            img.nW.centered(src='@/assets/curso/ic-card1.svg', alt='imagen decorativa')  
+          h3  El montaje
+          p.mb-3  Una idea decorativa con productos integrados, que permiten al transeúnte entender rápidamente el mensaje de la tienda.
+      .col-lg-4
+        .tarjeta.text-center.h-100.c1.p-4(data-aos="flip-right")
+          figure.mb-3
+            img.nW.centered(src='@/assets/curso/ic-card2.svg', alt='imagen decorativa')  
+          h3  El tema
+          p.mb-3  Mensaje que se incorpora al montaje para recordar una fecha o actividad.
+      .col-lg-4
+        .tarjeta.text-center.h-100.c1.p-4(data-aos="flip-right")
+          figure.mb-3
+            img.nW.centered(src='@/assets/curso/ic-card3.svg', alt='imagen decorativa')  
+          h3  El foco
+          p.mb-3  Centro óptico seleccionado para llamar la atención.
+    
+
     Separador
     br
     br
     #t_2_6.titulo-segundo
       h2 2.6  <i>Merchandising</i>
+   
+    .row.mb-5
+      .col-lg-7
+        p.mb-3  Es el conjunto de estrategias y tácticas efectuadas dentro del establecimiento y que tiene como fin buscar el artículo correcto, en la cantidad necesaria, con el precio justo, en el tiempo adecuado, con una presentación visual impactante y dentro de una exhibición sobresaliente. Se refiere a todos los esfuerzos destinados a que el cliente, no solo conozca el producto, sino también, que tome una acción de compra.
+        p.mb-3  El término <i>merchandising</i>, como se conoce en la actualidad, se incrementó con la aparición del autoservicio en Estados Unidos en la década de 1930. Época en la que los establecimientos se dieron cuenta del impacto e influencia que tenían las exhibiciones en el consumidor. Los artículos que estaban exhibidos tenían una mejor respuesta comercial dando comienzo a una serie de investigaciones en el tema, que terminaron por profesionalizar el área. Y fue así como, con el paso de los años, los supermercados comenzaron a usar el <i>merchadising</i> para destacar y promocionar toda la mercancía en sus lugares de venta (Borja, 2021).
+      .col-lg-5
+        figure.mb-3
+          img.nW(src='@/assets/curso/t2-15.png', alt='imagen decorativa')  
 
 
 
+    h3.titulo-tercero Tipos de <i>merchandising</i>
+    p.mb-5 Existen diferentes opciones para destacar los productos en el punto de venta, que dan mayores posibilidades para mejorar la exhibición de las marcas y sus artículos. Y para lograrlos, hay varios tipos de <i>merchandising</i>: según la naturaleza, según el tipo de cliente y según el ciclo de vida del producto, las cuales se verán a continuación:
+
+    h4.titulo-cuarto
+      i.fas.fa-angle-double-right 
+      | &nbsp; Según la naturaleza
+    .row.mb-5.justify-content-center
+      .col-xs-8.col-sm-8.col-md-6.col-lg-5.col-xl-4
+        .nav-holder.align-items-center(data-aos="flip-left")
+          img(src="@/assets/curso/ch-1.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 <i>Merchandising</i> de presentación
+              p.small Se presentan los productos de modo que sea fácil de verlos por parte del cliente y además rentable para el establecimiento.
+
+      .col-xs-8.col-sm-8.col-md-6.col-lg-5.col-xl-4
+        .nav-holder.align-items-center(data-aos="flip-left")
+          img(src="@/assets/curso/ch-2.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 <i>Merchandising</i> de gestión
+              p.small Gestiona el espacio o lugar de venta para obtener el mayor rendimiento en cada lineal o góndola.
+
+      .col-xs-8.col-sm-8.col-md-7.col-lg-5.col-xl-4
+        .nav-holder.align-items-center(data-aos="flip-left")
+          img(src="@/assets/curso/ch-3.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 <i>Merchandising</i> de seducción
+              p.small Da un aspecto seductor, no solo al lineal, sino a la tienda en general. También se conoce como “tienda espectáculo” por el diseño especial que se crea para el impacto visual al cliente.
+
+
+    h4.titulo-cuarto
+      i.fas.fa-angle-double-right 
+      | &nbsp; Según el tipo de cliente
+    .row.mb-5.justify-content-center
+      .col-xs-8.col-sm-8.col-md-7.col-lg-5.col-xl-4
+        .nav-holder.align-items-center(data-aos="flip-left")
+          img(src="@/assets/curso/ch-4.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 Para el cliente <i>shopper</i>
+              p.small Se presentan los productos de modo que sea fácil de verlos por parte del cliente y además rentable para el establecimiento.
+
+      .col-xs-8.col-sm-8.col-md-7.col-lg-5.col-xl-4
+        .nav-holder.align-items-center(data-aos="flip-left")
+          img(src="@/assets/curso/ch-5.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 Para el cliente <i>buyer</i>
+              p.small Se refiere al cliente que ya se encuentra dentro del establecimiento y que se basa en el precio, la calidad del producto, las promociones de venta, la gama de productos y la atención recibida para tomar una decisión de compra.    
+
+
+    h4.titulo-cuarto
+      i.fas.fa-angle-double-right 
+      | &nbsp; Según el ciclo de vida del producto
+    .row.mb-5.justify-content-center
+      .col-xs-8.col-sm-8.col-md-6.col-lg-5.col-xl-3
+        .nav-holder.align-items-center(data-aos="flip-left")
+          img(src="@/assets/curso/ch-6.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 Producto de lanzamiento
+              p.small Cuando sale al mercado una nueva referencia, o un nuevo bien o servicio y se le debe definir el emplazamiento, ubicación y lineal donde será exhibido.
+      .col-xs-8.col-sm-8.col-md-6.col-lg-5.col-xl-3
+        .nav-holder.align-items-center(data-aos="flip-left")
+          img(src="@/assets/curso/ch-7.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 Producto de ataque
+              p.small Cuando el producto crece rápidamente, se posiciona y es el mejor frente a los demás productos de la familia. En ese momento se puede darle un espacio más amplio en el lineal.
+      .col-xs-8.col-sm-8.col-md-6.col-lg-5.col-xl-3
+        .nav-holder.align-items-center(data-aos="flip-left")
+          img(src="@/assets/curso/ch-8.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 Producto de mantenimiento
+              p.small Cuando el producto ya llegó a su madurez, está posicionado y tiene un buen lugar y espacio en el lineal. En este momento se debe tratar de que esta situación permanezca la mayor cantidad de tiempo posible.
+
+      .col-xs-8.col-sm-8.col-md-6.col-lg-5.col-xl-3
+        .nav-holder.align-items-center(data-aos="flip-left")
+          img(src="@/assets/curso/ch-9.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 Producto de defensa
+              p.small Cuando el producto se encuentra en su fase de declive y es cuando el espacio puede disminuir o incluso desaparecer del lineal. El fabricante debe decidir si lo retira del mercado o si le inyecta un cambio que sea positivo para el cliente.
+
+    .row.mb-5.justify-content-center
+      .col-lg-8
+        figcaption.customCaption.mb-2  Figura  Ciclo de vida del producto
+        figure(data-aos="flip-up")
+          img(src='@/assets/curso/t2-g1.svg', alt='imagen decorativa')  
+
+    h3.titulo-tercero Funciones del    
+    .row.mb-5
+      .col-lg-8
+        p.mb-3  La labor de crear merchandising es ubicar, apoyar, monitorear y actualizar los productos, además de tener la exhibición impecable y apoyar los productos con publicidad que los acompañe (Borja, 2021). 
+        p.mb-4  Las principales funciones del merchandising son:
+        ul.lista-ul
+          li
+            i.fas.fa-check  
+            p.mb-0  Exposición lo más óptima posible de los artículos.
+          li
+            i.fas.fa-check  
+            p.mb-0  Garantía de que los artículos se encuentran disponibles para el cliente. 
+          li
+            i.fas.fa-check  
+            p.mb-0  Rectitud en el suministro de productos de la empresa comercial. 
+          li
+            i.fas.fa-check  
+            p.mb-0  Planificación del espacio de exhibición.
+          li
+            i.fas.fa-check  
+            p.mb-0  Impacto visual del producto destacándolo de los demás grupos de productos similares de la competencia. 
+          li
+            i.fas.fa-check  
+            p.mb-0  Uso estratégico del espacio del lineal, góndola o estantería.
+
+      .col-lg-4
+        figure(data-aos="flip-up")
+          img(src='@/assets/curso/t2-i16.png', alt='imagen decorativa')  
 
 
     Separador
@@ -710,6 +898,122 @@
     br
     #t_2_6.titulo-segundo
       h2 2.7  Señalización comercial
+
+    p.mb-5 Es una herramienta muy importante que ayuda a mejorar la información dentro del establecimiento, de tal forma que el visitante encuentre fácil el producto que necesita. Por lo tanto, ayuda a la circulación y la orientación dentro del recinto. Una buena implementación de un proyecto de señalización debe tener en cuenta los siguientes dos aspectos (Costa, 2007).
+
+    .row.mb-5
+      .col-lg-4
+        figure(data-aos="flip-up")
+          img(src='@/assets/curso/t2-i17.png', alt='imagen decorativa')  
+      .col-lg-8
+        TabsC.color-primario.mb-5.customTabs
+          .py-3.py-md-4(titulo="Localización previa del sitio")
+            .row.justify-content-center.align-items-center        
+              .col-md-12.mb-4.mb-md-0
+                h4 Localización previa del sitio
+                p Diagnósticos del marco legal determinado y derroteros en el reconocimiento del punto de venta. Ayuda para comprender cuáles son los condicionantes que se deben tener en cuenta a la hora de diseñar la señalética. Por otro lado, se debe tener en cuenta qué tipo de signos se van a usar, para que el creativo entre en acción y diseñe las diferentes piezas, donde debe tener en cuenta el espacio disponible, tamaño de las piezas, colores, texturas, materiales. El diseño que desarrolle el creativo debe ser coherente a la identidad y personalidad de la marca, y debe ir de acuerdo con las normativas del sitio. Una vez el diseño esté listo y aprobado se pasa a la etapa de producción e instalación.
+
+          .py-3.py-md-4(titulo="Señalización del establecimiento comercial")
+            .row.justify-content-center.align-items-center        
+              .col-md-12.mb-4.mb-md-0
+                h4 Señalización del establecimiento comercial
+                p.mb-3  El diseño de la señalización debe tener armonía con la arquitectura del establecimiento. El trabajo interdisciplinario, en este momento es fundamental, porque se debe tener en cuenta la opinión de arquitectos, diseñadores industriales y técnicos especialistas en el tema. Con esto se asegura un óptimo resultado en el cumplimiento de los objetivos de señalización en el punto de venta.
+                p.mb-3  La finalidad de la señalización comercial es la de hacer un llamado de atención al público presente sobre algunas situaciones de riesgo de una manera simple, rápida y de fácil comprensión. Cuando la señalización de seguridad falta en el interior de un establecimiento incrementa las situaciones de riesgo, porque priva a empleados y visitantes de una elemental información básica que puede alertar sobre el riesgo y la forma en que se puede evitar (Costa, 2007).
+    
+    h3.titulo-tercero Tipos de señalización comercial
+    .row.mb-5
+      .col-lg-8
+        p.mb-5  Para que las señales sean lo más efectivas posible, deben cumplir ciertas consideraciones que tienen que ver con la ubicación en el almacén, la forma, el color y el diseño. <b>Además, se debe tener en cuenta:</b>
+        ul.lista-ul(data-aos="slide-up")
+          li
+            i.fas.fa-check
+            p <b>El material</b>, que resista los choques.
+          li
+            i.fas.fa-check
+            p <b>El tamaño</b>, que sea el adecuado de tal forma que garantice su visibilidad y comprensión.
+          li
+            i.fas.fa-check
+            p <b>La ubicación</b>, que esté en una adecuada altura y en una apropiada posición. Se debe tener en cuenta los posibles obstáculos que interfieran su visibilidad y el ángulo con respecto a la visual del cliente.            
+      
+      .col-lg-4
+        figure(data-aos="flip-up")
+          img(src='@/assets/curso/t2-i18.png', alt='imagen decorativa')  
+
+    p.mb-5  En Colombia, actualmente existen leyes y resoluciones que tienen que ver con las normas en señalización, que tienen como fina asegurar la integridad y salud del ser humano a nivel laboral y en lugares públicos, como se cita a continuación.
+    .row.mb-5.justify-content-center
+      .col-lg-3
+        figure(data-aos="flip-up")
+          img(src='@/assets/curso/t2-i19.png', alt='imagen decorativa')  
+      .col-lg-7
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta color-primario")
+          .row.justify-content-center(titulo="Ley 9 de 1979: Título III. (Salud Ocupacional)")
+            .col-md-11.mb-4.mb-md-0
+              p Donde se estipulan normas para preservar, conservar y mejorar la salud de los individuos en sus ocupaciones.
+          .row.justify-content-center(titulo="Título V. Artículo 202. Código de Colores")
+            .col-md-11.mb-4.mb-md-0
+              p “En todos los establecimientos de trabajo en donde se lleven a cabo operaciones y/o procesos que integren aparatos, máquinas, equipos, ductos, tuberías, etc. Y demás instalaciones locativas necesarias para su funcionamiento que utilizarán los colores básicos recomendados por la <i>AMERICAN STANDARS ASSOCIATION (ASA)</i> y otros colores específicos, para identificar los elementos, materiales, etc., y demás elementos específicos que determinen o prevengan riesgos que puedan causar accidentes o enfermedades profesionales”.
+
+          .row.justify-content-center(titulo="Decreto 1443 de 2014")
+            .col-md-11.mb-4.mb-md-0
+              p Por medio del cual se dictan disposiciones para la implementación del sistema de gestión de la seguridad y salud en el trabajo (SG-SST).
+          .row.justify-content-center(titulo="Decreto 1072 de 2015, especialmente la parte referida al SG-SST")
+            .col-md-11.mb-4.mb-md-0
+              p Está especialmente enfocada a OSHAS 18001, indicando cómo definir unos parámetros para lograr la mejora continua.
+
+    p.mb-5  Además, existe una normativa que establece los parámetros que se deben cumplir en el diseño de las señales de seguridad. Se trata de la norma técnica Colombiana NTC 1461, que tiene como fin instaurar los colores y señales de seguridad que deben ser usados para prevenir accidentes y riesgos contra la salud e integridad de las personas, además de situaciones de emergencia. Esta norma se apoya en las normas internacionales ISO 3864-1 e ISO 16069:2004, que establecen varios criterios para el diseño de estas. A continuación, se exponen algunos de esos criterios:
+    .tarjeta.bg-sliders.p-5.mb-5
+      SlyderA
+        .row.justify-content-center
+          .col-md-6.mb-4.mb-md-0
+            .h4 Prohibición
+            p Debe ser redonda, de fondo blanco y con el pictograma centrado de color negro. Debe Tener una línea diagonal descendente de izquierda a derecha de color rojo que atraviese el pictograma. El borde debe tener el mismo grosor de la línea diagonal y también de color rojo.
+          .col-md-6
+            figure
+              img.nW.centered(src='@/assets/curso/t2-b1.svg', alt='pareja caminando en un supermecado')
+        .row.justify-content-center
+          .col-md-6.mb-4.mb-md-0
+            .h4 Advertencia
+            p Debe ser de forma triangular de fondo amarillo y con el pictograma centrado de color negro. El borde del triángulo también debe ser negro. 
+          .col-md-6
+            figure
+              img.nW.centered(src='@/assets/curso/t2-b2.svg', alt='pareja caminando en un supermecado')
+        .row.justify-content-center
+          .col-md-6.mb-4.mb-md-0
+            .h4 Obligación
+            p Debe ser de forma redonda de color azul con el pictograma centrado de color blanco. Por lo general, tiene un borde delgado de color azul seguido de otro borde más grueso de color blanco.
+          .col-md-6
+            figure
+              img.nW.centered(src='@/assets/curso/t2-b3.svg', alt='pareja caminando en un supermecado')
+              
+        .row.justify-content-center
+          .col-md-6.mb-4.mb-md-0
+            .h4 Salvamento o de socorro
+            p Debe tener forma rectangular o cuadrada de fondo verde y con el pictograma centrado de color blanco. Puede tener un borde delgado de color verde seguido de otro blanco más grueso.
+          .col-md-6
+            figure
+              img.nW.centered(src='@/assets/curso/t2-b4.svg', alt='imagen decorativa')
+
+        .row.justify-content-center
+          .col-md-6.mb-4.mb-md-0
+            .h4 Relativas al material y equipo de lucha contra incendios 
+            p Debe ser de forma rectangular o cuadrada de fondo rojo y con el pictograma centrado de color blanco.
+          .col-md-6
+            figure
+              img.nW.centered(src='@/assets/curso/t2-b5.svg', alt='imagen decorativa')
+    
+    .row.mb-5.justify-content-center
+      .col-lg-6
+        ImagenInfografica.color-secundario.mb-5
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/t2-infog1.svg', alt='señaletica por colores')
+
+          .tarjeta.color-acento-botones.p-3(x="20%" y="20%")
+            .h5.mb-2 titulo
+            p Lorem ipsum dolor Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
+
+
+
 
 
 
