@@ -1020,6 +1020,22 @@
             p Acción del mando, obligación a usar equipo de protección. Es de seguridad cuando se usa en forma circular.
             p <b>Contraste:</b> Azul - Blanco <br> <b>Forma</b>: Circular
 
+          .tarjeta.color-acento-botones.p-3.shadow-box(x="98%" y="50%")
+            p Se usa para advertir precaución y riesgo de peligro.
+            p <b>Contraste:</b> Amarillo - Negro <br> <b>Forma</b>: Triangular
+
+    p.mb-5.text-bold  Por otro lado, existe la señalética propia de cada almacén, empresa o establecimiento.
+    .row.mb-5.justify-content-center
+      .col-lg-7
+        h4.titulo-cuarto
+          i.fas.fa-angle-double-right 
+          | &nbsp; Señalética corporativa
+        p.mb-3  Es la propia de cada empresa y sirve como guía a los presentes en un espacio público. Van más allá de solo cumplir con la función de orientar, porque, además, sirven para reforzar la identidad de la marca y ayuda a generar recordación en los clientes. En cuanto al diseño puede ser dispar porque depende del establecimiento, su tamaño y sus condiciones. Puede haber señales&nbsp;colgadas o pegadas en la pared, pero lo importante es que ejecute una labor comunicativa visual completa y eficaz. La señalética corporativa sirve para orientar a las personas para que se dirijan al lugar que necesiten, como, por ejemplo, una dependencia, los baños públicos, las rutas de evacuación, los botes de basura, la salida de emergencia, entre muchas otras (Costa, 2007).
+      .col-lg-4
+        figure(data-aos="flip-left")
+          img(src='@/assets/curso/t2-i20.png', alt='señaletica por colores')
+
+
 
 
     Separador
@@ -1028,8 +1044,129 @@
     #t_2_8.titulo-segundo
       h2 2.8  Dispositivos de seguridad
 
+    .row.mb-5
+      .col-lg-7
+        p.mb-5  Son unos sistemas que usan los establecimientos, principalmente a la hora de exhibir los artículos, y sirven para avisar al personal en el preciso momento en el que pueda estar existiendo un robo con el fin de evitar el hurto del artículo, interponiendo medios físicos que tienen como función dificultar la acción la sustracción por parte del ladrón (Vidal, Mas y González, 2011)
+        .cajon.color-primario.p-4
+          p.mb-0  Un establecimiento puede dejar de tener rentabilidad a causa del hurto de artículos dentro del punto de venta. Es por esta razón que para la prevención de estos acontecimientos indeseados se aconseja lo siguiente:
+      .col-lg-5
+        figure(data-aos="flip-left")
+          img(src='@/assets/curso/t2-i21.png', alt='señaletica por colores')
 
+    TabsA.color-primario.mb-5
+      .tarjeta.color-acento-contenido.p-4(titulo="Organizar")
+        .row
+          .col-lg-6
+            h4 Organizar el local para evitar los robos 
+            p.mb-3  Tener ordenado el establecimiento es vital para evitar robos en el punto de venta, porque permite tener una visión clara de todo el espacio. Además de poder ver rápidamente si algo falta, puesto que el espacio donde se encuentra el artículo estaría vacío. Se debe conocer con lujo de detalles el punto de venta. 
+            p.mb-3  <b>¿Dónde están las cajas situadas? ¿Se puede ver claramente la gente ingresando y saliendo del establecimiento?</b> Es importante tener estudiado y analizado el espacio para prevenir posibles robos. Finalmente, para evitar los puntos ciegos, se pueden instalar espejos y seleccionar el tipo de mobiliario adecuado que no interfiera con la visualización del punto de venta.  
+          .col-lg-6
+            figure.slideInLeft
+              img(src='@/assets/curso/t2-nn1.png', alt='imagen decorativa')     
+    
+      .tarjeta.color-acento-contenido.p-4(titulo="Aportar")
+        .row
+          .col-lg-6
+            h4 Aportar formación a los empleados
+            p.mb-3  Además de tener el punto de venta vigilado, se recomienda que los empleados se capaciten para prevenir los robos y saber cómo actuar en caso de un evento de esta magnitud.
+            p.mb-3  Conociendo las técnicas más productivas de vigilancia, los protocolos de actuación en caso de hurto y los más sospechosos comportamientos por parte de los clientes, ayudan de una forma más efectiva a mantener el establecimiento seguro.  
+          .col-lg-6
+            figure.slideInLeft
+              img(src='@/assets/curso/t2-nn2.png', alt='imagen decorativa')     
+      .tarjeta.color-acento-contenido.p-4(titulo="Prestar atención")
+        .row
+          .col-lg-6
+            h4 Prestar atención a los puntos más indefensos y artículos atractivos
+            p.mb-3  Se refiere a aquellos espacios como son los probadores o las salidas de emergencia. Son los lugares más comunes usados por los ladrones para poderse escapar con los productos robados. 
+            p.mb-3  Se recomienda transitar por el local, lo cual va a permitir ver con claridad a los visitantes que entran y salen del negocio. De esta forma se pueden ver y analizar las acciones de los ladrones y reaccionar pronto en caso de que exista un robo. 
+          .col-lg-6
+            figure.slideInLeft
+              img(src='@/assets/curso/t2-nn3.png', alt='imagen decorativa')         
 
+      .tarjeta.color-acento-contenido.p-4(titulo="Contar")
+        .row
+          .col-lg-6
+            h4 Contar con un detector de metales 
+            p.mb-3  El uso de bolsas envueltas con aluminio evita los sistemas de seguridad, por lo que es una técnica muy usada por parte de los ladrones. 
+            p.mb-3  Pero, para ello, existen unos dispositivos que permiten detectar el ingreso de estos productos al establecimiento, siendo reconocidos fácilmente como ladrones, desde antes de ingresar al punto de venta.
+          .col-lg-6
+            figure.slideInLeft
+              img(src='@/assets/curso/t2-nn4.png', alt='imagen decorativa')        
+      .tarjeta.color-acento-contenido.p-4(titulo="Saber identificar")
+        .row
+          .col-lg-6
+            h4 Saber identificar los hábitos de robo más comunes
+            p.mb-3  Los ladrones trabajan en equipo, porque así suelen distraer la atención del personal. Comportamientos extraños como, por ejemplo, observar detalladamente un producto o permanecer mucho tiempo al frente de un producto en especial, son actitudes que se deben identificar. 
+            p.mb-3  Entre otros hábitos se destacan el uso de ropa amplia, como chaquetas o pantalones con varios bolsillos o tulas grandes.
+          .col-lg-6
+            figure.slideInLeft
+              img(src='@/assets/curso/t3-nn5.png', alt='imagen decorativa')     
+
+      .tarjeta.color-acento-contenido.p-4(titulo="Implantar")
+        .row
+          .col-lg-6
+            h4 Implantar sistemas de seguridad 
+            p.mb-3  Es vital proteger el punto de venta a través de diferentes sistemas que incrementen la seguridad del establecimiento. 
+          .col-lg-6
+            figure.slideInLeft
+              img(src='@/assets/curso/t2-nn6.png', alt='imagen decorativa')     
+
+    .row.mb-5.justify-content-center
+      .col-lg-10
+        .cajon.color-primario.p-4
+          p.mb-0  Para evitar robos de artículos en el punto de venta se deben tener en cuenta los siguientes consejos, de esta forma, el negocio permanecerá seguro.
+      
+    h3.titulo-tercero Sistemas antihurto para tiendas de ropa
+    .row.mb-5
+      .col-lg-8
+        p.mb-3  Para no tener gastos a causa de los robos se recomienda invertir en un sistema de seguridad instalado en el punto de venta. Son muy útiles porque registran a los ladrones en cuanto tengan la mínima oportunidad de realizar un robo. <b>Con estos sistemas se pueden exhibir los productos en lugares asequibles al cliente, sin necesidad de ubicarlos detrás de un exhibidor o en una vitrina cerrada y bajo llave.</b> Así, los clientes podrán ver los artículos sin problema alguno y, por ende, se puede evitar la molestia al empleado de estar sacando constantemente los artículos de la vitrina.
+        p.mb-3  Para proteger los productos, los establecimientos pueden disponer de diferentes sistemas o equipos de seguridad, como, por ejemplo:
+      .col-lg-4 
+        figure(data-aos='flip-left')
+          img(src='@/assets/curso/t2-i22.png', alt='imagen decorativa')            
+    .tarjeta.bg-sliders2.p-5.mb-5.shadow-box
+      SlyderA
+        .row
+          .col-md-6.mb-4.mb-md-0
+            .h4 Alarmas
+            p Sistema que no evita el hurto, pero sí advierte de su presencia a quien entra al punto de venta. Se conecta a una central receptora, en la que hay alguien pendiente de lo que sucede en el establecimiento. Su más importante función es disuadir cualquier intento de hurto. Si se quiere, pueden tener un diseño discreto y se pueden camuflar de forma estética en el entorno en el que se instalen.
+          .col-md-6
+            figure
+              img(src='@/assets/curso/t2-mm1.png', alt='imagen decorativa')
+
+        .row
+          .col-md-6.mb-4.mb-md-0
+            .h4 Vigilantes de seguridad
+            p Personal dedicado a la vigilancia y seguridad en los establecimientos. Tienen funciones como, evitar cualquier acto delictivo en cualquier momento, denunciar ante infracciones administrativas y proteger los artículos y el negocio como tal.
+          .col-md-6
+            figure
+              img(src='@/assets/curso/t2-mm2.png', alt='imagen decorativa')
+        .row
+          .col-md-6.mb-4.mb-md-0
+            .h4 Vitrinas cerradas con llave
+            p Escaparates en los que se exhiben los productos ofertados por el establecimiento. Se distinguen por tener una distinguida presentación y por exhibir productos de alto valor, dándoles una mejor protección. Ayudan a la conservación de los artículos porque los aíslan del polvo, la humedad, el aire y también de los ladrones. 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/t2-mm3.png', alt='imagen decorativa')
+        .row
+          .col-md-6.mb-4.mb-md-0
+            .h4 Etiquetas antihurto adhesivas
+            p Son uno de los sistemas antihurto más usados, porque cuenta con sensores de alarma que activan los arcos antihurto cuando se produce un intento de robo. En el momento de la compra del artículo se desactivan o se quitan. Algunos tipos de productos que pueden tener este sistema son joyas, gafas, ropa, perfumes, cosméticos, bebidas, pequeños electrodomésticos, cámaras de video y fotos, videojuegos y consolas, celulares, computadores, entre muchos otros.
+          .col-md-6
+            figure
+              img(src='@/assets/curso/t2-mm4.png', alt='imagen decorativa')
+        .row
+          .col-md-6.mb-4.mb-md-0
+            .h4 CCTV (Circuitos Cerrados de Cámara de Televisión)
+            p Sistema que usa tecnología de videovigilancia que se emplea para supervisar diversas zonas del establecimiento. Cubren un rango amplio y con muy buen detalle visual. Presenta imágenes de alta definición e identifica de forma efectiva a los ladrones. Por otro lado, tiene visión nocturna y detector de movimiento.
+          .col-md-6
+            figure
+              img(src='@/assets/curso/t2-mm5.png', alt='imagen decorativa')
+    .spacer
+    .row.mb-5.justify-content-center 
+      .col-lg-10
+        .cajon.color-primario.p-4
+          p.mb-0  Tener estos sistemas de seguridad le permitirá al establecimiento tener mejores garantías de obtener la rentabilidad esperada, porque reducen notablemente los intentos de robo de mercancía (Vidal, Mas y González, 2011)
 
 
 
