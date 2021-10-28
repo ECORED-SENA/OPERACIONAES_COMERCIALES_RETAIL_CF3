@@ -11,7 +11,7 @@
       .col-lg-7.slideInUp
         p.mb-3  <b>La venta al detalle o <i>retail</i>, es un sistema de comercialización que entrega el producto al cliente y en este sentido, los canales de venta son vitales para el mismo y para lograr la diferenciación comercial, las empresas dedican gran parte de su esfuerzo en el diseño y experiencia de compra.</b> Además, la industria del <i>retail</i> se percibe como un negocio habitual, porque la sociedad piensa que se trata de empresas enfocadas en alcanzar buenas negociaciones, lo que se logra haciendo presión a los proveedores para poder vender los bienes y servicios a precios bajos.
         p.mb-3  Sin embargo, el mundo del <i>retail</i> ha ido evolucionando bastante en los últimos años. Empresas de grandes superficies o grandes almacenes como Carrefour, El Corte Inglés y Walmart, cada vez se vuelven más sofisticadas.
-        p.mb-3  Un <i>retail</i> debe lograr la conexión emocional con el cliente y para poderlo lograr el bien o servicio ofrecido debe estar alineado con los valores, deseos, necesidades, poder económico y expectativas de los clientes y, además, se debe diferenciar de la competencia. Diferencia que debe ir unida a la capacidad de ofrecer una experiencia de compra positiva y memorable, vital para crear <b>Brand Equity</b> (aumentar el tráfico, vender y fidelizar al cliente).
+        p.mb-3  Un <i>retail</i> debe lograr la conexión emocional con el cliente y para poderlo lograr el bien o servicio ofrecido debe estar alineado con los valores, deseos, necesidades, poder económico y expectativas de los clientes y, además, se debe diferenciar de la competencia. Diferencia que debe ir unida a la capacidad de ofrecer una experiencia de compra positiva y memorable, vital para crear <b><i>Brand Equity</i></b> (aumentar el tráfico, vender y fidelizar al cliente).
       .col-lg-5
         figure.slideInLeft
           img(src='@/assets/curso/t1-i1.png', alt='imagen decorativa')
@@ -92,7 +92,7 @@
     .row.mb-5.justify-content-center
       .col-lg-10
         .cajon.color-primario.p-4.mb-4
-          p.mb-0  Con estos cambios y evolución en el sector retail se ha generado una transformación en el comportamiento del consumidor y sus hábitos de compra. Los productos de marca propia que se ofrecen en estas tiendas de venta al detal se presentan como una nueva alternativa para el cliente, y que, además, permite su producción a empresas, principalmente pymes colombianas, que hacen su papel como proveedores y gestores de empleo (Vigaray, 2005).
+          p.mb-0  Con estos cambios y evolución en el sector <i>retail</i> se ha generado una transformación en el comportamiento del consumidor y sus hábitos de compra. Los productos de marca propia que se ofrecen en estas tiendas de venta al detal se presentan como una nueva alternativa para el cliente, y que, además, permite su producción a empresas, principalmente pymes colombianas, que hacen su papel como proveedores y gestores de empleo (Vigaray, 2005).
 
     p.mb-5  A continuación, se presentan los tipos de formatos comerciales tradicionales:
     .neg-margin-x.bg-curved
@@ -129,7 +129,7 @@
 
         .row.justify-content-center(titulo="Grandes almacenes")
           .col-md-8.mb-4.mb-md-0
-            p.mb-3  Se diferencian por tener un tamaño más grande, con un surtido más amplio y por tener locales fuera de la ciudad. Cuentan con amplios parqueaderos, autoservicio, una gran superficie de ventas que les permite ofrecer una amplia cantidad y variedad de productos y, además, presentan al cliente una facilidad para llegar en carro. Ejemplo: Almacenes Éxito.
+            p.mb-3  También conocidos como tiendas por departamentos, son establecimientos de gran tamaño que ofrecen una variedad de productos tales como ropa, calzado, muebles, menaje, decoración, confección, etc. La alimentación no es prioridad es este formato. Están ubicados en el centro de las ciudades, pueden tener varias plantas, lo que permite dividir su superficie comercial en secciones. Por lo general pertenecen a una sola empresa y tienen una sola sede de tamaño enorme. Ejemplo: Falabella.
           .col-md-2
             figure
               img.nW(src='@/assets/curso/t1-i8.png', alt='Logo de Gran almacen')
@@ -159,11 +159,12 @@
 
         .row.justify-content-center(titulo="Tiendas por departamentos")
           .col-md-8.mb-4.mb-md-0
-            p.mb-3  Son establecimientos de gran tamaño que ordenan los productos que ofrecen en su interior en departamentos o categoría como ejemplo ferretería, ropa para damas, ropa para caballeros, productos para el hogar, tecnología, entre otros. Requieren de muchos empleados para poder entregar una buena atención al cliente. Ejemplo: Alkosto.
+            p.mb-3  Son establecimientos de gran tamaño que ordenan los productos que ofrecen en su interior en departamentos o categorías como ejemplo ferretería, ropa para damas, ropa para caballeros, productos para el hogar, tecnología, entre otros. Requieren de muchos empleados para poder entregar una buena atención al cliente. Ejemplo: Alkosto.
           .col-md-2
             figure
               img.nW(src='@/assets/curso/t1-i12.png', alt='Logo de centro comercial')    
-
+      br
+      p.mb-5  Se puede decir que los establecimientos comerciales son espacios físicos importantes en los que se promociona y ofrece bienes y servicios de tal forma que existan procesos de compra por parte de los clientes y que, dependiendo del tipo de consumidor al que se atiende, de los productos que se ofrecen y del tamaño del lugar pueden ser de diferente naturaleza.   
 
     Separador.p-0
     br
@@ -208,15 +209,16 @@
           .col-md-6
             figure.slideInLeft
               img(src='@/assets/curso/t1-s4.png', alt='imagen decorativa')
-
-    h3.titulo-tercero La arquitectura interior del establecimiento
+    br
+    br
+    h3.titulo-tercero La arquitectura interior del establecimiento comercial
     .row.mb-5
       .col-lg-4
         figure(data-aos="flip-left")
           img(src='@/assets/curso/t1-i13.jpg', alt='imagen decorativa')
       .col-lg-8
         p.mb-3(data-aos="slide-left")  El objetivo de su diseño es la creación de un flujo de circulación de clientes que está estratégicamente dirigido en dirección de lugares dentro del establecimiento que, psicológicamente, manipulan y provocan una positiva actitud de compra. Para conseguirlo, resulta fundamental el estudio de los elementos que forman la arquitectura interior.
-        p.mb-3(data-aos="slide-right")  Así como en la arquitectura exterior, en el interior del establecimiento se debe planear una serie de funciones que permitan certificar el éxito y la calidad del trabajo desarrollado. Para ello, el encargado del merchandising debe resolver dónde localizar y cómo organizar los elementos presentes en la arquitectura interior (Borja, 2021).
+        p.mb-3(data-aos="slide-right")  Así como en la arquitectura exterior, en el interior del establecimiento se debe planear una serie de funciones que permitan certificar el éxito y la calidad del trabajo desarrollado. Para ello, el encargado del <i>merchandising</i> debe resolver dónde localizar y cómo organizar los elementos presentes en la arquitectura interior (Borja, 2021).
         p.mb-3(data-aos="slide-left")  La finalidad de la arquitectura interna es la creación de una circulación lógica y fluida dentro del establecimiento, permitiendo que el cliente transite por todas las secciones del local, conformado por:
     .row.mb-5.justify-content-center
       .col-lg-6
