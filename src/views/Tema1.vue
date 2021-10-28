@@ -222,14 +222,18 @@
         p.mb-3(data-aos="slide-left")  La finalidad de la arquitectura interna es la creación de una circulación lógica y fluida dentro del establecimiento, permitiendo que el cliente transite por todas las secciones del local, conformado por:
     .row.mb-5.justify-content-center
       .col-lg-6
-        h4.titulo-cuarto  Puntos de acceso
+        h4.titulo-cuarto
+          i.fas.fa-angle-double-right  
+          | &nbsp;Puntos de acceso
         p.mb-3  Su finalidad es la de ubicar al cliente una vez dentro del establecimiento, y la estrategia es la de ubicarlo en el lugar donde comienza una circulación natural. A partir de allí, las personas transitan y se dirigen al centro del local y luego giran en sentido contrario a las manecillas del reloj.  
       .col-lg-4
         figure(data-aos="flip-left")
           img(src='@/assets/curso/t1-i14.jpg', alt='imagen decorativa')
       .clearfix.mb-5
       .col-lg-10
-        h4.titulo-cuarto  Localización de las zonas
+        h4.titulo-cuarto  
+          i.fas.fa-angle-double-right  
+          | &nbsp;Localización de las zonas
         p.mb-5  Son zonas imaginarias que dividen el espacio en dos partes iguales de la siguiente forma:
       .row.mb-5.justify-content-center
         .col-lg-4
@@ -249,7 +253,9 @@
                 p.small Área de circulación por donde el cliente transita muy poco. Su técnica consiste en ubicar productos de mayor rotación y promociones de venta con el objetivo de hacer transitar a los clientes por todo el lugar. 
       .clearfix.mb-5
       .col-lg-10
-        h4.titulo-cuarto  Zonas
+        h4.titulo-cuarto  
+          i.fas.fa-angle-double-right  
+          | &nbsp;  Zonas
         p.mb-5  Estas se identifican según sea el punto de acceso:
         .row.mb-5.justify-content-center
           .col-lg-12
@@ -292,7 +298,9 @@
 
     .row.mb-5.justify-content-center
       .col-lg-10
-        h4.titulo-cuarto(data-aos="flip-up")  Ubicación de las secciones
+        h4.titulo-cuarto(data-aos="flip-up")  
+          i.fas.fa-angle-double-right  
+          | &nbsp; Ubicación de las secciones
         p.mb-3  Es la forma en que se organizan las partes del establecimiento. Tiene que ver con la rotación de productos en las diferentes secciones, con las zonas de circulación, las zonas frías y las zonas calientes. Por ejemplo, la sección a la derecha es la de aseo personal, y la sección a la izquierda es la de aseo para el hogar.
         p.mb-5  La cantidad de secciones va a depender del tipo de local:
       
@@ -327,7 +335,9 @@
 
     .row.mb-5.justify-content-center
       .col-lg-10
-        h4.titulo-cuarto  Diseño de pasillos
+        h4.titulo-cuarto
+          i.fas.fa-angle-double-right  
+          | &nbsp;  Diseño de pasillos
         .row.mb-5.justify-content-center
           .col-lg-8(data-aos="flip-left")
             p.mb-3  Los pasillos son los espacios por donde transitan los clientes en el establecimiento, y deben tener un diseño especial e impactante que facilite la compra por parte de los clientes, favoreciendo su andar buscando los productos que necesita comprar. La dimensión o espacio de los pasillos puede representar el éxito o el fracaso del establecimiento, porque si son muy estrechos, no habrá facilidad en la circulación, y si son muy anchos disminuirá la superficie destinada para la venta.

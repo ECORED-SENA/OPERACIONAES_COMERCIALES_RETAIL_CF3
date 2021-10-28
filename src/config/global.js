@@ -235,7 +235,7 @@ export default {
     {
       termino: 'Consistencia',
       significado:
-        'Se cercanía relativa entre las líneas de producto y su uso final.',
+        'cercanía relativa entre las líneas de producto y su uso final.',
     },
     {
       termino: 'Escaparate',
@@ -288,7 +288,7 @@ export default {
     {
       termino: 'Surtido',
       significado:
-        'conjunto de productos ofertados por los diferentes establecimientos comerciales y que se encuentran dispuestos que el consumidor los compre.',
+        'conjunto de productos ofertados por los diferentes establecimientos comerciales y que se encuentran dispuestos para que el consumidor los compre.',
     },
     {
       termino: 'Vitrinismo',
@@ -305,13 +305,13 @@ export default {
     },
     {
       texto:
-        'González, D. [Marketing 2.0]. (2019). ¿Qué es Merchandising? [Video]. YouTube.',
+        'González, D. [Marketing 2.0]. (2019). ¿Qué es <i>merchandising</i>? [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Val9lx16bsc',
     },
     {
       texto:
-        'Salgado, R. [Visual Branding LA]. (2013). Conceptos básicos de visual merchandising. [Video]. YouTube.',
+        'Salgado, R. [Visual Branding LA]. (2013). Conceptos básicos de visual <i>merchandising</i>. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=xZZ63K6cVbc',
     },

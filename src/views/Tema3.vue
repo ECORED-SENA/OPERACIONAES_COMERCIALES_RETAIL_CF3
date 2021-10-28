@@ -349,7 +349,7 @@
         .row
           .col-lg-7
             h4 Entornos digitales
-            p Es internet y su ecosistema digital, sitio web, aplicaciones, redes sociales, blog, chat, etc. Y es a través de los cuales los clientes pueden tener un vínculo con la marca luego de la activación, y también a través de los cuales hagan su voz a voz con sus contactos. Los perfiles, mensajes, identidad, posibilidad de diálogo, interacción y retroalimentación por parte de los clientes hacen que esta dimensión se vital en la activación de las marcas.
+            p Es internet y su ecosistema digital, sitio web, aplicaciones, redes sociales, blog, chat, etc. Y es a través de los cuales los clientes pueden tener un vínculo con la marca luego de la activación, y también a través de los cuales hagan su voz a voz con sus contactos. Los perfiles, mensajes, identidad, posibilidad de diálogo, interacción y retroalimentación por parte de los clientes hacen que esta dimensión sea vital en la activación de las marcas.
           .col-lg-5
             figure(data-aos="slide-right")
               img(src='@/assets/curso/t3-i12-3.png', alt='persona realizando compra virtual desde su tablet')   
@@ -357,12 +357,12 @@
         .row
           .col-lg-7
             h4 Entornos físicos
-            p Se refiera a permitirle al cliente de poder interactuar a través de ambientes físicos como por ejemplo las oficinas, tiendas o <i>stands</i> en donde el cliente pueda dejar comentarios o sugerencias.
+            p Se refiera a permitirle al cliente poder interactuar a través de ambientes físicos como por ejemplo las oficinas, tiendas o <i>stands</i> en donde el cliente pueda dejar comentarios o sugerencias.
           .col-lg-5
             figure(data-aos="slide-right")
               img(src='@/assets/curso/t3-i12-4.png', alt='Mujer seleccionando ropa en una tienda')   
 
-    p.mb-5  Estas dimensiones podrán ser dispuestas por cualquier tipo de empresa, así no tengan la oportunidad de estar en los 360º ya que con una buena estrategia en medios alternativos y una buena inversión en la activación podría llamar la atención del cliente. Para una empresa del sector retail, las dimensiones del entorno físico y las personas son vitales, porque a los clientes los tiene disponibles y cautivos en el momento de la compra dentro del punto de venta y si los trabajadores están comprometidos todo debe salir muy bien a la hora de desarrollar una activación. Eso sí, sin olvidarse de los demás niveles, los cuales deben ser trabajados de manera coherente con la idea y la identidad de la marca para que en medios digitales el cliente tenga la oportunidad de vincularse con la marca y además de referenciarla a sus contactos.
+    p.mb-5  Estas dimensiones podrán ser dispuestas por cualquier tipo de empresa, así no tengan la oportunidad de estar en los 360º ya que con una buena estrategia en medios alternativos y una buena inversión en la activación podría llamar la atención del cliente. Para una empresa del sector <i>retail</i>, las dimensiones del entorno físico y las personas son vitales, porque a los clientes los tiene disponibles y cautivos en el momento de la compra dentro del punto de venta y si los trabajadores están comprometidos todo debe salir muy bien a la hora de desarrollar una activación. Eso sí, sin olvidarse de los demás niveles, los cuales deben ser trabajados de manera coherente con la idea y la identidad de la marca para que en medios digitales el cliente tenga la oportunidad de vincularse con la marca y además de referenciarla a sus contactos.
     
     h3.titulo-tercero Proceso de activación de marca
     p.mb-5  Este proceso puede variar según sean las características de la marca e incluso el tipo de actividad que se vaya a realizar para activarla. Sin embargo, se pueden nombrar cinco etapas genéricas:
@@ -371,7 +371,7 @@
         LineaTiempoD.color-secundario
           p(numero="1" titulo="Identificar los puntos de contacto") Se refiere a la identificación de todos los puntos de contacto que la empresa pueda tener con su público objetivo en las cinco dimensiones de la activación de marca que se mencionaron antes, estableciendo prioridades.
           p(numero="2" titulo="Definir el plan de activación") Se refiere a la idea como tal. Cómo se va a impactar al cliente para que la experiencia de marca sea significativa e inolvidable.
-          p(numero="3" titulo="Definir el <i>Customer Journey</i>") Se refiere a la definición del trayecto que el cliente realiza dentro del establecimiento a lo largo de los diferentes puntos de contacto en su proceso de compra. Consiste en especificar los instantes y soportes que entran en juego en todo el proceso de interacción de los clientes con la marca. En cada uno de esos instantes se deben conocer los aspectos de la estrategia que se puedan ir activando de la manera correcta. La logística de la activación es vital para que todo el proceso se vaya cumpliendo sea la idea.
+          p(numero="3" titulo="Definir el <i>Customer Journey</i>") Se refiere a la definición del trayecto que el cliente realiza dentro del establecimiento a lo largo de los diferentes puntos de contacto en su proceso de compra. Consiste en especificar los instantes y soportes que entran en juego en todo el proceso de interacción de los clientes con la marca. En cada uno de esos instantes se deben conocer los aspectos de la estrategia que se puedan ir activando de la manera correcta. La logística de la activación es vital para que todo el proceso se vaya cumpliendo según la idea.
           p(numero="4" titulo="Poner en marcha del plan") Se refiere a que la empresa debe saber en qué momento (día y hora) se debe llevar a cabo la activación. Debe ser un momento en el que haya la cantidad de clientes suficientes para poder activar la marca de la mejor forma en su presencia.
           p(numero="5" titulo="Monitorear el progreso") Este proceso se debe hacer cada vez que se realice una activación y es el proceso que entrega métricas o indicadores para revisar más objetivamente el resultado de la activación. Cabe anotar que la activación se debe filmar para editar un video y compartirlo en los canales de la marca. Entonces, es importante revisar los datos obtenidos en el video (me gusta, compartir, interacciones, etc.). De igual forma, revisar en redes sociales qué interacciones o vínculos se lograron con los clientes luego de la activación. Para eso, es necesario cruzar todos los datos que obtenemos de los distintos canales.
 

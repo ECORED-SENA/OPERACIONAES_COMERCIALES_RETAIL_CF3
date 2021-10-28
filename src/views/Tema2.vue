@@ -223,16 +223,16 @@
     #t_2_2.titulo-segundo
       h2 2.2  Planograma o planimetría
 
-    p.mb-5  Es una herramienta muy necesaria para la gestión eficaz del espacio donde se exhiben los productos de los establecimientos minoristas, más aún en la actualidad, porque existe un mercado más complicado y competitivo, en el que ha aumentado el tamaño de las tiendas, las dimensiones del surtido y el número de categorías. Esta herramienta tiene como objetivos mejorar la presentación de los artículos y aumentar las ventas.
+    p.mb-5.text-bold  Es una herramienta muy necesaria para la gestión eficaz del espacio donde se exhiben los productos de los establecimientos minoristas, más aún en la actualidad, porque existe un mercado más complicado y competitivo, en el que ha aumentado el tamaño de las tiendas, las dimensiones del surtido y el número de categorías. Esta herramienta tiene como objetivos mejorar la presentación de los artículos y aumentar las ventas.
     .row.mb-5
       .col-lg-7
         p.mb-3  Se puede definir como un instrumento del <i>merchandising</i> que consiste en el diseño de un boceto, diagrama o croquis a través de un <i>software</i>, donde se describe detalladamente el lugar en el que se van a ubicar los artículos. Además, el planograma detalla la cantidad de productos, el número de <i>facings</i> (caras) de un mismo producto, cuál es la altura y qué profundidad deben ocupar las distintas referencias señaladas. <b>Se entiende por <i>facing</i> al número de caras de un mismo producto que se necesitan para que se pueda ver por parte del cliente.</b> Por lo tanto, el planograma viene siendo una estrategia de mercadeo que tiene como objetivo hacer visible al producto al interior del establecimiento.
-        p.mb-3  La complejidad de un planograma va a depender del tamaño del establecimiento, de las necesidades del detallista o del programa (<i>software</i>) utilizado para su diseño. Por eso se recomienda que el planograma sea sencillo pero que, a la vez, detalle toda la información necesaria para saber cuál es la ubicación exacta de cada artículo dentro de la tienda.
+        p.mb-3  La complejidad de un planograma va a depender del tamaño del establecimiento, de las necesidades del detallista o del programa (<i>software</i>) utilizado para su diseño. Por eso <b>se recomienda que el planograma sea sencillo pero que, a la vez, detalle toda la información necesaria para saber cuál es la ubicación exacta de cada artículo dentro de la tienda.</b>
       .col-lg-5
         figure(data-aos="slide-up")
           img(src='@/assets/curso/t2-i5.jpg', alt='imagen decorativa')  
 
-    p.mb-5  Las funciones principales del planograma son:
+    p.mb-5.text-bold  Las funciones principales del planograma son:
     .row.mb-5.justify-content-center
       .col-lg-4
         .nav-holder.align-items-center(data-aos="flip-up")
@@ -900,7 +900,7 @@
     Separador
     br
     br
-    #t_2_6.titulo-segundo
+    #t_2_7.titulo-segundo
       h2 2.7  Señalización comercial
 
     p.mb-5 Es una herramienta muy importante que ayuda a mejorar la información dentro del establecimiento, de tal forma que el visitante encuentre fácil el producto que necesita. Por lo tanto, ayuda a la circulación y la orientación dentro del recinto. Una buena implementación de un proyecto de señalización debe tener en cuenta los siguientes dos aspectos (Costa, 2007):
