@@ -299,18 +299,18 @@
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta color-primario")
           .row.justify-content-center(titulo="Local especializado – Local ultraespecializado")
             .col-md-6.mb-4.mb-md-0
-              .h4 Localización de las zonas
+              .h4 Local especializado
               p.mb-5 Posee muy pocas secciones, pero puede tener muchas categorías de productos, tienen profundidad, una venta tradicional, además de familias y subfamilias en los productos.
               .h4 Local ultraespecializado
               p.mb-5  Posee solamente una sección, pero está altamente especializado, por ejemplo, solamente vende ropa deportiva. Además, posee una gran profundidad.
             .col-md-6
               figure
                 img(src='@/assets/curso/t1-l13.svg', alt='Texto que describa la imagen')
-              figcaption  Local especializado – Local ultra especializado
+              figcaption  Local especializado – Local ultraespecializado
 
           .row.justify-content-center(titulo="Disposición del movimiento")
             .col-lg-12
-              p.mb-5  Se puede poner sin seguir ningún trazado, lo que el cliente tendrá libertad de movimiento. También se puede colocar en forma de parrilla o rectangular, o sea que la ubicación de las góndolas es paralela con relación al flujo de clientes. O también se puede ubicar una disposición angular que sitúa las góndolas de manera sesgada al flujo de clientes.
+              p.mb-5  Se puede poner sin seguir ningún trazado, el cliente tendrá libertad de movimiento. También se puede colocar en forma de parrilla o rectangular, o sea que la ubicación de las góndolas es paralela con relación al flujo de clientes. O también se puede ubicar una disposición angular que sitúa las góndolas de manera sesgada al flujo de clientes.
 
             .col-md-3
               figure

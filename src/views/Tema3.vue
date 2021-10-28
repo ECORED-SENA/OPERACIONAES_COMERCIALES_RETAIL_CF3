@@ -120,7 +120,7 @@
             .col-md-6
               figure
                 img(src='@/assets/curso/t3-i2-9.png', alt='pareja caminando en un supermecado')
-
+    .spacer
 
     Separador
     br

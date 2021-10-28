@@ -25,10 +25,10 @@
       h2 2.1  Estructura del surtido
     .row.mb-5
       .col-lg-7
-        p.mb-3.text-bold(data-aos="slide-up")  Se refiere a los niveles, los cuales se dividen por departamentos, secciones, categorías, familias, subfamilias, artículos y referencias. Por ejemplo, la familia de los licores con productos de vinos comunes, vinos selectos, whisky, ron, aguardiente, brandy, etc.
+        p.mb-3.text-bold(data-aos="slide-up")  Se refiere a los niveles, los cuales se dividen por departamentos, secciones, categorías, familias, subfamilias, artículos y referencias. Por ejemplo, la familia de los licores con productos de vinos comunes, vinos selectos, <i>whisky</i>, ron, aguardiente, <i>brandy</i>, etc.
         p.mb-3(data-aos="slide-up")  La cantidad de referencias que pone en venta un establecimiento está condicionada por el tamaño del local. Evidentemente, los establecimientos que posean más tamaño tendrán la posibilidad de poner en venta una mayor cantidad de referencias. 
-        p.mb-3(data-aos="slide-up")  Los supermercados, que suelen tener más o menos entre 1.000 m² y 2,500 m², pueden poner en venta aproximadamente 5.300 referencias, y los autoservicios, que son más pequeños en tamaño, máximo 2.900 referencias. Otras variables que influyen en la cantidad de referencias que trabaja un local comercial, son los hábitos de compra del consumidor, la imagen que tenga el establecimiento y, por último, su política comercial.
-        p.mb-3(data-aos="slide-up")  La clasificación o estructura del surtido radica en organizar este grupo de referencias en niveles. Tiene un doble propósito: el primero es diferenciar los niveles y el segundo es identificar cuáles niveles poseen mayor o menor rango. En cuanto a la gestión por categorías, la clasificación de referencias se puede distinguir comenzando en la totalidad del surtido y finalizando en las referencias de los artículos, y se puede ver en la siguiente figura.
+        p.mb-3(data-aos="slide-up")  Los supermercados, que suelen tener más o menos entre 1.000 m² y 2.500 m², pueden poner en venta aproximadamente 5.300 referencias, y los autoservicios, que son más pequeños en tamaño, máximo 2.900 referencias. Otras variables que influyen en la cantidad de referencias que trabaja un local comercial, son los hábitos de compra del consumidor, la imagen que tenga el establecimiento y, por último, su política comercial.
+        p.mb-3(data-aos="slide-up")  La clasificación o estructura del surtido radica en organizar este grupo de referencias en niveles. Tiene un doble propósito: el primero es diferenciar los niveles y el segundo es identificar cuáles niveles poseen mayor o menor rango. En cuanto a la gestión por categorías, la clasificación de referencias se puede distinguir comenzando en la totalidad del surtido y finalizando en las referencias de los artículos, y se puede ver en la siguiente figura:
       .col-lg-5
         figure(data-aos="flip-left")
           img.nW(src='@/assets/curso/t2-i2.jpg', alt='imagen decorativa')
@@ -71,6 +71,10 @@
             .tarjeta.color-acento-botones.p-3.shadow-box(x="90%" y="62%")
               .h5.mb-2 Referencias: 
               p Las diferentes opciones en tamaño, color, sabor, etc., que tienen los productos. 
+
+            .tarjeta.color-acento-botones.p-3.shadow-box(x="60%" y="90%")
+              .h5.mb-2 Artículos: 
+              p También se les puede llamar productos o por su nombre común y natural como por ejemplo leche entera, semideslactosada o deslactosada.
 
           .cajon.color-primario.p-4.mb-4
             p.mb-0  Entonces, la clasificación o estructura del surtido se refiere a distribuir los artículos en grupos o niveles para que la oferta comercial se pueda clasificar, identificar y gestionar estratégicamente. Lo normal es que cada establecimiento diseñe su propia estructura, sin embargo, cabe anotar que la empresa debe gestionar de forma estratégica el surtido y su clasificación, teniendo en cuenta variables como la tipología del negocio y la filosofía empresarial.
@@ -148,7 +152,7 @@
               figure
                 img.r-0(src='@/assets/curso/t2-s4.svg', alt='imagen decorativa')
               figcaption  Surtido estrecho y poco profundo
-
+      .spacer
       h3.titulo-tercero Determinación de las dimensiones del surtido
       p.mb-5  En la gestión del surtido el primer paso debe ser la precisión de sus dimensiones. Y para lograrlo, se deben tener en cuenta los siguientes factores:
       TabsC.color-primario.mb-5.customTabs
