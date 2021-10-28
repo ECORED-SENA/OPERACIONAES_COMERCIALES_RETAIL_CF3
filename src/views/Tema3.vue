@@ -197,7 +197,7 @@
       p.mb-5.text-bold  La codificación de artículos en el establecimiento hace que se tenga una buena organización del inventario, por esto influye de manera positiva en todas las actividades que se realicen en el punto de venta. Por ello, la importancia de que cada producto esté identificado desde antes de que el cliente lo ubique en su carrito de compra. 
       .row.mb-5
         .col-lg-7
-          .cajon.color-acento-contenido.p-4.mb-5(data-aos="flip-up")
+          .cajon.color-primario.p-4.mb-5(data-aos="flip-up")
             p.mb-0 El proceso de codificación de productos radica en identificar los artículos sin equivocación con un código o signo. Código que se asocia a una etiqueta que se adhiere al producto y que va a permitir el acceso a él de forma electrónica. <b>Los más usados son los códigos de barras y las etiquetas RFID</b> (etiquetas autoadhesivas, flexibles y delgadas, con impresión frontal humanamente visible).
           p.mb-3  <b>Codificar significa fijar un código a un artículo.</b> Con este código se puede conocer algunas de sus características principales como por ejemplo la referencia, fecha de llegada al almacén, fechas de envasado y de expiración e ingredientes, entre otras. Su finalidad es identificar los artículos de forma unívoca (no pueden existir dos artículos con el mismo código). El sistema de gestión de bodegas (WMS - <i>Warehouse Management System</i>) tiene un papel preponderante en este proceso porque es el que crea el código de cada artículo, fija las ubicaciones de los artículos en el punto de venta y controla su trazabilidad.
 
@@ -207,7 +207,7 @@
 
       .row.mb-5.justify-content-center
         .col-lg-10
-          .cajon.color-acento-contenido.p-4.mb-5(data-aos="flip-up")
+          .cajon.color-primario.p-4.mb-5(data-aos="flip-up")
             p.mb-0 Actualmente hay tendencias como las entregas extrarrápidas o el acopio de mercancías de un tamaño menor han dado como resultado una complicación en los procesos del establecimiento. Por ello, se hace vital que se pueda instaurar un control íntegro de los productos, registrando todos sus movimientos con el fin de hacer un estudio exacto sobre los flujos de mercancía para poderlos optimizar. Gracias a esta codificación y a la asistencia de la gestión de bodegas - WMS, los operarios pueden localizar y expedir productos más rápidamente y con menores errores (Publicaciones Vértice, 2010).
 
 
@@ -235,7 +235,7 @@
 
 
       TabsA.color-primario.mb-5
-        .tarjeta.color-acento-contenido.p-4(titulo="Penetración")
+        .tarjeta.color-primario.p-4(titulo="Penetración")
           .row
             .col-lg-7
               h4 Penetración
@@ -291,7 +291,7 @@
                 img(src='@/assets/curso/t3-i10-5.png', alt='imagen decorativa')    
       .row.mb-3.justify-content-center
         .col-lg-10
-          .cajon.color-acento-contenido.p-4(data-aos="flip-up")
+          .cajon.color-primario.p-4(data-aos="flip-up")
             p.mb-0 Dentro de este esquema básico de desarrollo de estrategias, las marcas tienen la oportunidad de crear múltiples formas a la hora de fijar los precios. El objetivo principal siempre debe ser el aumento en la rentabilidad y los ingresos para la empresa, por eso se debe ser creativo y estratégico a la hora de crear las estrategias de precio (Kotler y Armstrong, 2013).
 
                 
@@ -305,7 +305,7 @@
     p.mb-5  Los clientes en la actualidad están más invadidos de publicidad porque, además de los medios tradicionales o masivos (televisión, prensa, radio, revistas, cine, etc.), también están los medios alternativos (correo electrónico, redes sociales, blogs, telefonía celular, etc.). En un contexto así, las acciones de mercadeo alternativo se convierten en una oportunidad muy atractiva. Precisamente una de estas acciones alternativas de mercadeo es la activación de marca.
     .row.mb-5
       .col-lg-7
-        .cajon.color-acento-contenido.p-4.mb-5(data-aos="flip-up")
+        .cajon.color-primario.p-4.mb-5(data-aos="flip-up")
           p.mb-0 El concepto se puede definir con aquellas actividades en que la marca tiene una relación directa con el cliente. Esas actividades pertenecen al <i>marketing</i> <b>BTL</b> que es la sigla de <i>Below The Line</i> (o mercadeo alternativo o no tradicional). El mercadeo alternativo se identifica por llamar la atención del cliente de una manera diferente a las demás acciones de comunicación como por ejemplo la publicidad, boletines, promociones o fuerza de ventas.
         p.mb-3  La más importante ventaja de estas actividades alternativas de mercadeo es que crean un vínculo con el cliente, además de lograr una experiencia significativa y un recuerdo agradable; y suelen usar factores psicológicos de los clientes para alcanzar un mayor impacto en ellos (AA. VV., 2020).
         p.mb-3  Como se puede ver en los diferentes ejemplos, la activación de marca se refiere a una puesta en escena de un plan de acción que lleve la marca a donde se encuentre el cliente, bien sea un parque, un centro comercial, un escenario público, etc., y donde a través de una idea impactante lo haga pasar un momento memorable, sin este darse cuenta de que fue publicidad.
@@ -315,7 +315,7 @@
 
     .row.mb-5
       .col-lg-10
-        .cajon.color-acento-contenido.p-4(data-aos="flip-up")
+        .cajon.color-primario.p-4(data-aos="flip-up")
           p.mb-0 En esta activación de marca es <b>muy importante que todos los puntos de contacto con los que dispone la empresa para interactuar con sus clientes sirvan para que ellos interactúen con la marca y contribuyan a generar la experiencia que debe ser no solo agradable, sino también significativa.</b> Y más aún importante, lograr que los clientes luego de la experiencia realicen un “voz a voz” positivo con sus contactos, bien sea de manera presencial o virtual a través de redes sociales, <i>WhatsApp</i> y demás herramientas digitales. Resulta más poderosa la recomendación de un amigo, familiar o conocido que la misma publicidad realizada por la marca.
 
     h3.titulo-tercero Dimensiones de la activación de marca
@@ -380,7 +380,7 @@
           img(src='@/assets/curso/t3-i13.png', alt='imagen decorativa')
       .clearfix.p-5
       .col-lg-10
-        .cajon.color-acento-contenido.p-4(data-aos="flip-up")
+        .cajon.color-primario.p-4(data-aos="flip-up")
           p.mb-0 Como en cualquier plan, es importante que en la activación de marca se establezca con detalle un plan y un cronograma que detalle bien la idea, con sus acciones, recursos, fechas, responsables y KPI obtenidos. Para este tipo de estrategias se recomienda tener una visión a largo plazo, una coherencia con la identidad y personalidad de la marca, un cumplimiento de las promesas, un diálogo con los clientes y un oído activo; además de tener un trato personalizado con los clientes, una gestión colaborativa, y finalmente una capacidad de adaptarse según sean los comentarios de los clientes (AA. VV., 2020).
 
 

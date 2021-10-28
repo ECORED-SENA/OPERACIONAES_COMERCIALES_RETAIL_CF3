@@ -301,7 +301,7 @@ export default {
       texto:
         'Quintero, A., L. F. (2015). El sector retail, los puntos de venta y el comportamiento de compra de los consumidores de la base de la pirámide en la comuna 10 de la ciudad de Medellín. Revista Ciencias Estratégicas, 23(33), 109-118.',
       tipo: 'Artículo PDF',
-      link: 'https://www.redalyc.org/pdf/1513/151345259009.pdf',
+      descarga: '/downloads/anexo-el-sector-retail.pdf',
     },
     {
       texto:

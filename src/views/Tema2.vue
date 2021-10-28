@@ -494,7 +494,7 @@
       .row.mb-5
         .col-lg-4
           figure(data-aos='flip-left')
-            img(src='@/assets/curso/t2-i19.png', alt='imagen decorativa')
+            img(src='@/assets/curso/t2-x1.png', alt='imagen decorativa')
         .col-lg-8
           p.mb-3  La exposición de los artículos en un almacén o establecimiento se hace mediante el uso de un mobiliario especial que permite mostrar al cliente la mayor cantidad de productos, durante el mayor tiempo posible.
           p.mb-3  Los objetivos de la exhibición son:
@@ -870,7 +870,7 @@
     h3.titulo-tercero Funciones del <i>merchandising</i>   
     .row.mb-5
       .col-lg-8
-        p.mb-3  La labor de crear <i>merchandising</i> es ubicar, apoyar, monitorear y actualizar los productos, además de tener la exhibición impecable y apoyar los productos con publicidad que los acompañe (Borja, 2021). 
+        p.mb-3  La labor de crear <i>merchandising</i> es <b>ubicar, apoyar, monitorear y actualizar los productos</b>, además de tener la exhibición impecable y apoyar los productos con publicidad que los acompañe (Borja, 2021). 
         p.mb-4  Las principales funciones del <i>merchandising</i> son:
         ul.lista-ul
           li
