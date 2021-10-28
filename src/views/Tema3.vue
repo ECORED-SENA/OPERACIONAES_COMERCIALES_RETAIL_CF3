@@ -23,7 +23,7 @@
             p Orienta a los clientes dentro del establecimiento facilitando la compra de artículos porque tiene ordenado el surtido y dividido según el tipo de producto.
           li
             i.fas.fa-ckeck
-            p Fideliza a los consumidores, generando comportamientos positivos, además de engagement o compromiso de compra.
+            p Fideliza a los consumidores, generando comportamientos positivos, además de <i>engagement</i> o compromiso de compra.
           li
             i.fas.fa-ckeck
             p Entrega un alto valor a los artículos, porque mejora su exhibición de cara a los clientes.
@@ -46,13 +46,13 @@
           .row
             .col-md-6.mb-4.mb-md-0
               .h4 Góndola
-              p Mueble ubicado en forma de pared donde se exhiben los productos a ambos lados y en sus esquinas. Cada una de las dos esquinas o extremos del mueble se denominan cabecera de góndola, siendo es uno de los puntos preferidos para poner mensajes publicitarios y productos en promoción de venta.
+              p Mueble ubicado en forma de pared donde se exhiben los productos a ambos lados y en sus esquinas. Cada una de las dos esquinas o extremos del mueble se denominan cabecera de góndola, siendo uno de los puntos preferidos para poner mensajes publicitarios y productos en promoción de venta.
             .col-md-6
               figure
                 img(src='@/assets/curso/t3-i2.png', alt='pareja caminando en un supermecado')
           .row
             .col-md-6.mb-4.mb-md-0
-              .h4 Muebles stand
+              .h4 Muebles <i>stand</i>
               p Mueble específico de las marcas comerciales, cuyo fin es exhibir promociones, degustaciones, demostraciones o exhibiciones de diferentes artículos.
             .col-md-6
               figure
@@ -100,7 +100,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               .h4 Embalaje 
-              p Sistema que permite el traslado del producto de fácil y correctamente, y que en el punto de venta se utiliza como un expositor por parte del fabricante.
+              p Sistema que permite el traslado del producto fácil y correctamente, y que en el punto de venta se utiliza como un expositor por parte del fabricante.
             .col-md-6
               figure
                 img(src='@/assets/curso/t3-i2-7.png', alt='pareja caminando en un supermecado')
@@ -116,7 +116,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               .h4 Congeladores y frigoríficos
-              p Muebles específicos para exhibir alimentos que requieran de ser conservados, porque son productos perecederos. 
+              p Muebles específicos para exhibir alimentos que requieran ser conservados, porque son productos perecederos. 
             .col-md-6
               figure
                 img(src='@/assets/curso/t3-i2-9.png', alt='pareja caminando en un supermecado')
@@ -130,7 +130,7 @@
     .row.mb-5
       .col-lg-7
         p.mb-3  La gestión estratégica de la rotación de los productos que conforman una categoría específica permite organizar de manera sencilla y práctica la ubicación de la mercancía en el punto de ventas. La idea es organizar las diferentes categorías que constituyen el surtido del establecimiento, en pro de mejorar el nivel de ventas en un determinado período de tiempo. 
-        p.mb-3  <b>El método ABC de clasificación de inventarios admite ordenar la distribución de los distintos artículos dentro del establecimiento según sea la popularidad, valor, rotación e importancia para la marca.</b> Con este método se le da más importancia en la ubicación de los productos al aporte económico que suponen para la empresa. Y se basa en el principio de Pareto o regla del 80/20, que enseña que el 20% del esfuerzo es responsable del 80% de los resultados. Si se emplea en el ecosistema del establecimiento, el 20% de los productos generan el 80% de los movimientos de mercancía, mientras que el 80% de los artículos ocasiona el sobrante 20% de movimientos (Borja, 2021).
+        p.mb-3  <b>El método ABC de clasificación de inventarios admite ordenar la distribución de los distintos artículos dentro del establecimiento según sea la popularidad, valor, rotación e importancia para la marca.</b> Con este método se le da más importancia en la ubicación de los productos al aporte económico que suponen para la empresa. Y se basa en el principio de Pareto o regla del 80/20, que enseña que el 20 % del esfuerzo es responsable del 80 % de los resultados. Si se emplea en el ecosistema del establecimiento, el 20 % de los productos generan el 80 % de los movimientos de mercancía, mientras que el 80 % de los artículos ocasiona el sobrante 20 % de movimientos (Borja, 2021).
 
       .col-lg-5
         figure
@@ -147,8 +147,8 @@
           .col-md-8.mb-4.mb-md-0
             .h4 Artículos con rotación A
             .cajon.color-primario.p-4.mb-4
-              p.mb-0 Por cantidad, solo ocupan por lo general el 20% de los inventarios, pero, en realidad, son los productos que tienen más rotación y, por tanto, tienen una jerarquía estratégica. Las referencias A se refiere a aquello artículos donde el establecimiento tiene una inversión más alta de su presupuesto y por lo tanto generan el 80% de los ingresos, por lo que es muy importante que no existan roturas de <i>stock</i> (inventario).
-            p.mb-3  También pertenecen a este grupo los <b>SKU</b> (<i>Stock-keeping Unit</i> o referencia) que, por sus características, son de vital importancia para el buen funcionamiento del punto de venta. Se recomienda conservar un control exhaustivo del inventario de aquellas referencias que se clasificaron como A con renovación frecuente, o incluso permanente. A la hora de situar las referencias A en la góndola, tienden a ubicarse en zonas que tengan un acceso directo y fácil para el operario, y, además, que estén cerca de los muelles de salida o de carga dentro del local.
+              p.mb-0 Por cantidad, solo ocupan por lo general el 20 % de los inventarios, pero, en realidad, son los productos que tienen más rotación y, por tanto, tienen una jerarquía estratégica. Las referencias A se refiere a aquellos artículos donde el establecimiento tiene una inversión más alta de su presupuesto y por lo tanto generan el 80 % de los ingresos, por lo que es muy importante que no existan roturas de <i>stock</i> (inventario).
+            p.mb-3  También pertenecen a este grupo los <b>SKU</b> (<i>Stock-keeping Unit</i> o referencia) que, por sus características, son de vital importancia para el buen funcionamiento del punto de venta. Se recomienda conservar un control exhaustivo del inventario de aquellas referencias que se clasificaron como A con renovación frecuente, o incluso permanente. A la hora de situar las referencias A en la góndola, tienden a ubicarse en zonas que tengan un acceso directo y fácil para el operario y, además, que estén cerca de los muelles de salida o de carga dentro del local.
             p.mb-3  <b>Ejemplos:</b> secciones que presentan rotación alta y que están conformadas por familias de productos perecederos de diversa naturaleza como por ejemplo carnicería, pescadería, panadería, frutas y verduras, lácteos, aceites y refrescos. Y en cuanto a su ubicación en el punto de venta se sitúan en la zona fría, con el objetivo de generar tránsito de clientes hacia ese cuadrante.
 
       .py-3.py-md-4(titulo="Artículos con rotación B")
@@ -159,7 +159,7 @@
           .col-md-8.mb-4.mb-md-0
             .h4 Artículos con rotación B
             .cajon.color-primario.p-4.mb-4
-              p.mb-0 Son aquellas referencias que se encuentran en la franja de rotación media y suelen representar, por volumen, el 30% de los inventarios. No se renuevan con tanta frecuencia como los de la referencia A, por lo que su valor e importancia es menor.
+              p.mb-0 Son aquellas referencias que se encuentran en la franja de rotación media y suelen representar, por volumen, el 30 % de los inventarios. No se renuevan con tanta frecuencia como los de la referencia A, por lo que su valor e importancia es menor.
             p.mb-3  Sin embargo, se debe estar atento a la evolución de estas referencias B por si, en algún momento, pueden pasar a rotación A o, en caso contrario, convertirse en referencia C. El abastecimiento de este tipo de existencias puede funcionar con la regla del inventario mínimo/máximo, ya que no están sujetos a un control exhaustivo sobre las compras emitiendo pedidos continuamente, como los productos de referencia A. Su ubicación en góndola es en zonas de altura intermedia donde su acceso no es tan directo como los artículos A, pero que tampoco implican ser inaccesibles.
             p.mb-3  <b>Ejemplos:</b> secciones de media rotación formadas por familias de artículos de diferente naturaleza como por ejemplo congelados, textil hogar, textil moda, higiene personal, calzado, electrodomésticos, entre otras. Y en cuanto a la ubicación en el punto de venta se sitúan localizados en una zona intermedia, es decir, entre la zona caliente y la zona fría.
 
@@ -171,9 +171,9 @@
           .col-md-8.mb-4.mb-md-0
             .h4 Artículos con rotación C
             .cajon.color-primario.p-4.mb-4
-              p.mb-0 Son los más numerosos, llegando a tener el 50% de las referencias almacenadas y, además, son los menos solicitados por los clientes. Como no son productos estratégicos no van a tener recursos siendo más modestos, y el reabastecimiento suele ajustarse con <i>stocks</i> de seguridad (productos que evitan la rotura del <i>stock</i>). Se aconseja vigilarlos para que no finalicen formando un inventario obsoleto y de muy poca rotación. Aquí, el establecimiento se debe preguntar: ¿conviene invertir parte del presupuesto en el mantenimiento de <i>stock</i> con referencia C?
-            p.mb-3  Sin embargo, se debe estar atento a la evolución de estas referencias B por si, en algún momento, pueden pasar a rotación A o, en caso contrario, convertirse en referencia C. El abastecimiento de este tipo de existencias puede funcionar con la regla del inventario mínimo/máximo, ya que no están sujetos a un control exhaustivo sobre las compras emitiendo pedidos continuamente, como los productos de referencia A. Su ubicación en góndola es en zonas de altura intermedia donde su acceso no es tan directo como los artículos A, pero que tampoco implican ser inaccesibles.
-            p.mb-3  <b>Ejemplos:</b> secciones de media rotación formadas por familias de artículos de diferente naturaleza como por ejemplo congelados, textil hogar, textil moda, higiene personal, calzado, electrodomésticos, entre otras. Y en cuanto a la ubicación en el punto de venta se sitúan localizados en una zona intermedia, es decir, entre la zona caliente y la zona fría.
+              p.mb-0 Son los más numerosos, llegando a tener el 50 % de las referencias almacenadas y, además, son los menos solicitados por los clientes. Como no son productos estratégicos no van a tener recursos siendo más modestos, y el reabastecimiento suele ajustarse con <i>stocks</i> de seguridad (productos que evitan la rotura del <i>stock</i>). Se aconseja vigilarlos para que no finalicen formando un inventario obsoleto y de muy poca rotación. Aquí, el establecimiento se debe preguntar: ¿conviene invertir parte del presupuesto en el mantenimiento de <i>stock</i> con referencia C?
+            p.mb-3  En cuanto a su ubicación en góndola, se sitúan en las zonas más altas o menos accesibles, además de estar más alejados de los muelles de salida o de carga, precisamente porque se requiere acceder a ellos de manera esporádica.
+            p.mb-3  <b>Ejemplos:</b> secciones de productos de baja rotación como por ejemplo tornillos, tuercas, clavos, cadenas, cuerdas, mangueras, químicos para limpieza, entre otros. Y en cuanto a su ubicación son situados en la zona caliente, con el fin de incrementar sus posibilidades para ser vistos por los clientes.
 
     .neg-margin-x.bg-curved
       p.mb-5  Se debe recordar que las secciones son unidades independientes de negocio en las que normalmente son agrupadas varias categorías homogéneas de productos, que a su vez son afines a las necesidades que satisfacen los artículos conformados en cada sección; y además, que las categorías de productos son divisiones dentro de la sección en las que son agrupadas varias familias, formando conjuntos de productos que los clientes perciben como conectados en la satisfacción de una necesidad o de un concepto estratégico específico. Esta conexión posee dos formas de presentación en función de cómo sean agrupados de manera estratégica los productos que la conforman: categorías operativas y categorías conceptuales.
@@ -357,7 +357,7 @@
         .row
           .col-lg-7
             h4 Entornos físicos
-            p Se refiera a permitirle al cliente de poder interactuar a través de ambientes físicos como por ejemplo las oficinas, tiendas o stands en donde el cliente pueda dejar comentarios o sugerencias.
+            p Se refiera a permitirle al cliente de poder interactuar a través de ambientes físicos como por ejemplo las oficinas, tiendas o <i>stands</i> en donde el cliente pueda dejar comentarios o sugerencias.
           .col-lg-5
             figure(data-aos="slide-right")
               img(src='@/assets/curso/t3-i12-4.png', alt='Mujer seleccionando ropa en una tienda')   

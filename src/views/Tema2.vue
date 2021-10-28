@@ -190,7 +190,7 @@
                 img(src='@/assets/curso/t2-t4.jpg', alt='imagen decorativa')      
             .col-md-6.mb-4.mb-md-0
               h4 El modo de presentación de los productos
-              p A la hora de hacer una compra de un artículo común (pan, huevos, leche, mantequilla), no se suele comparar, por lo que no sería necesario poseer un surtido muy profundo en el establecimiento. En cambio, cuando se compran productos poco comunes, o no tan frecuentes, como por ejemplo electrodomésticos, textiles y muebles, sí se suele hacer una comparación, y es cuando el cliente requiere de analizar muy bien las diferentes posibilidades de precio, características, calidad, beneficios, etc. 
+              p Se refiere a la forma en que se exhiben los productos. Se pueden usar góndolas, determinados tipos de contenedores, displays o, incluso, la presentación de los artículos en el suelo. Es por esto por lo que el modo de presentación de los productos influye directamente en la composición del surtido.
 
         .py-3.py-md-4(titulo="El comportamiento de la clientela")
           .row.justify-content-center.align-items-center   
@@ -262,7 +262,7 @@
             p Mejora la satisfacción del cliente facilitando las compras a través de lineales ordenados y atractivos visualmente.
           li
             i.fas.fa-check
-            p Permite una revisión más estricta del inventario al ordenar las estanterías y los facings (frentes) basándose en la rotación, lo que da como resultado una reducción de las roturas del stock (espacios vacíos).
+            p Permite una revisión más estricta del inventario al ordenar las estanterías y los <i>facings</i> (frentes) basándose en la rotación, lo que da como resultado una reducción de las roturas del <i>stock</i> (espacios vacíos).
           li
             i.fas.fa-check
             p Suministra una mejor relación del posicionamiento de los artículos.
@@ -381,7 +381,7 @@
       .col-lg-7
         .cajon.color-primario.p-4.mb-4(data-aos='flip-up')
           p.mb-0  Este busca la instalación óptima de los componentes, activos o pasivos, para alcanzar los volúmenes requeridos disminuyendo el gasto en mano de obra, movimientos, existencias o almacenamientos intermedios, además de la inactividad o espera de los equipos.
-        p.mb-3  En cuanto al mercadeo, el layout se refiere al emplazamiento de los bienes o servicios en cualquier tipo de establecimiento, o sea, a su organización estratégica con el fin de disminuir el consumo de mano de obra y certificar la correcta exhibición de los artículos. El <i>marketing-layout</i> tiene como objeto aumentar las ventas por metro cuadrado, agrupando o separando los artículos con base a los criterios de consumo que identifiquen a un determinado mercado. Por ejemplo, en el tema de las estanterías se suele elegir entre dos tipos de layout: rectangular o angular (Martínez, 2016).
+        p.mb-3  En cuanto al mercadeo, el <i>layout</i> se refiere al emplazamiento de los bienes o servicios en cualquier tipo de establecimiento, o sea, a su organización estratégica con el fin de disminuir el consumo de mano de obra y certificar la correcta exhibición de los artículos. El <i>marketing-layout</i> tiene como objeto aumentar las ventas por metro cuadrado, agrupando o separando los artículos con base en los criterios de consumo que identifiquen a un determinado mercado. Por ejemplo, en el tema de las estanterías se suele elegir entre dos tipos de <i>layout</i>: rectangular o angular (Martínez, 2016).
 
       .col-lg-5
         figure(data-aos='flip-left')
@@ -440,7 +440,7 @@
                   figcaption Diseño mixto
 
     h3.titulo-tercero Formatos del <i>layout</i>
-    p.mb-3  Se distinguen dos (2) categorías principales, layout con transformación y sin transformación:
+    p.mb-3  Se distinguen dos (2) categorías principales, <i>layout</i> con transformación y sin transformación:
     .row.mb-5.justify-content-center
       .col-lg-10
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta color-primario")
@@ -464,15 +464,15 @@
 
     .row.mb-5
       .col-lg-8
-        p.mb-3  Los objetivos del <i>Layout</i> de los establecimientos comerciales son mejorar la rapidez para preparar los pedidos, facilitar la exactitud de estos y la ubicación más eficiente del surtido. Si todo lo anterior se logra, se pueden potencializar las ventajas competitivas de la empresa que están incluidas en el plan estratégico, por lo general adquiriendo ciclos de pedido con mayor rapidez y con mejor servicio al cliente.
+        p.mb-3  Los objetivos del <i>layout</i> de los establecimientos comerciales son mejorar la rapidez para preparar los pedidos, facilitar la exactitud de estos y la ubicación más eficiente del surtido. Si todo lo anterior se logra, se pueden potencializar las ventajas competitivas de la empresa que están incluidas en el plan estratégico, por lo general adquiriendo ciclos de pedido con mayor rapidez y con mejor servicio al cliente.
         p.mb-3  Fases fundamentales en el diseño de un almacén:
         ul.lista-ul(data-aos='flip-left')
           li
             i.fas.fa-check
-            p.mb-0  <b>Fase de diseño de la instalación.</b> Se elige el tipo de layout para el establecimiento.
+            p.mb-0  <b>Fase de diseño de la instalación.</b> Se elige el tipo de <i>layout</i> para el establecimiento.
           li
             i.fas.fa-check
-            p.mb-0  <b>Fase de diseño de la disposición de los elementos que deben "decorar" el almacén.</b> Se procede a crear el layout en el almacén. La exhibición debe estar lista y los muebles deben tener todo el contenido de artículos, señalética y PLV.
+            p.mb-0  <b>Fase de diseño de la disposición de los elementos que deben "decorar" el almacén.</b> Se procede a crear el <i>layout</i> en el almacén. La exhibición debe estar lista y los muebles deben tener todo el contenido de artículos, señalética y PLV.
 
       .col-lg-4    
         figure(data-aos='flip-up')
@@ -547,15 +547,14 @@
             span 5
           p Áreas complementarias: bodegaje, servicios adicionales y entretenimiento.
 
-      p.mb-5  Una vez organizado el interior del establecimiento, determinadas las diferentes secciones y definidos los espacios de los pasillos, se puede considerar el uso de los tipos de exhibición y el <i>Layout</i> del surtido.
+      p.mb-5  Una vez organizado el interior del establecimiento, determinadas las diferentes secciones y definidos los espacios de los pasillos, se puede considerar el uso de los tipos de exhibición y el <i>layout</i> del surtido.
 
       h3.titulo-tercero Tipos de exhibición
       .row.mb-5
         .col-lg-7
           p.mb-3  No importa cuál sea el tipo de exhibición que se elija en el establecimiento, deberá motivar en el cliente la acción de compra, por lo que se deben tener en cuenta las actividades programadas en el punto de venta, lo mismo que la temporada y los objetivos de venta. De esta manera, se puede pensar en tener “exhibiciones especiales” y “exhibiciones secundarias o adicionales” (por fuera del lineal y la góndola).
-          p.mb-3  Una exhibición debe contar con una excelente exposición de los productos para poder llamar la atención del público que con frecuencia visita el establecimiento. En cada sección se debe emplear un buen merchandising y utilizar los mejores elementos para su producción, lo cual es vital en la rotación del artículo que forme parte de la exhibición.
+          p.mb-3  Una exhibición debe contar con una excelente exposición de los productos para poder llamar la atención del público que con frecuencia visita el establecimiento. En cada sección se debe emplear un buen <i>merchandising</i> y utilizar los mejores elementos para su producción, lo cual es vital en la rotación del artículo que forme parte de la exhibición.
           p.mb-3  Por lo general, los clientes toman las decisiones de compra directamente en el punto de venta, por lo que una efectiva exhibición de los artículos puede influir positivamente en la toma de decisión.
-          p.mb-3  Los siguientes son algunos de los tipos de exhibición más comunes:
         
         .col-lg-5
           figure(data-aos='flip-left')
@@ -572,31 +571,31 @@
             li 
               .lista-ol--cuadro__vineta
                 span 1
-              p.mb-0 <b>Exhibición vertical:</b> Los productos se ubican de manera que cubran todos los niveles del lineal o góndola. Los de tamaños más pequeños van arriba, los medianos van en medio y los de mayor tamaño en los niveles bajos del anaquel.
+              p.mb-0 <b>Exhibición vertical:</b> los productos se ubican de manera que cubran todos los niveles del lineal o góndola. Los de tamaños más pequeños van arriba, los medianos van en medio y los de mayor tamaño en los niveles bajos del anaquel.
 
             li 
               .lista-ol--cuadro__vineta
                 span 2
-              p.mb-0 <b>Exhibición horizontal:</b> El producto se ubica en sus diferentes variedades, a lo largo de la estantería.
+              p.mb-0 <b>Exhibición horizontal:</b> el producto se ubica en sus diferentes variedades, a lo largo de la estantería.
 
             li 
               .lista-ol--cuadro__vineta
                 span 3
-              p.mb-0 <b>Exhibición por bloques:</b> El producto se ubica en bloques en la estantería.
+              p.mb-0 <b>Exhibición por bloques:</b> el producto se ubica en bloques en la estantería.
             li 
               .lista-ol--cuadro__vineta
                 span 4
-              p.mb-0 <b>Exhibición de doble franja:</b> En la misma estantería se exhiben dos líneas de productos que guardan alguna relación, una debe ser muy fuerte, (productos de gran consumo o básicos), y la otra línea con productos de impulso (dulces, chocolates, chicles, paletas).
+              p.mb-0 <b>Exhibición de doble franja:</b> en la misma estantería se exhiben dos líneas de productos que guardan alguna relación, una debe ser muy fuerte, (productos de gran consumo o básicos), y la otra línea con productos de impulso (dulces, chocolates, chicles, paletas).
               
             li 
               .lista-ol--cuadro__vineta
                 span 5
-              p.mb-0 <b>Exhibición en <i>check out:</i></b> En la misma estantería se exhiben dos líneas de productos que guardan alguna relación, una debe ser muy fuerte, (productos de gran consumo o básicos), y la otra línea con productos de impulso (dulces, chocolates, chicles, paletas).
+              p.mb-0 <b>Exhibición en <i>check out:</i></b> Productos que se encuentran cerca de las cajas para que el cliente realice una acción de compra por impulso en el momento de hacer la fila para pagar.
 
             li 
               .lista-ol--cuadro__vineta
                 span 6
-              p.mb-0 <b>Exhibición especial:</b> Tiene un diseño diferente al de un lineal, góndola o estantería. Puede ser un  exhibidor diseñado exclusivamente para el producto, o también puede ser una isla, y por lo general se usa cuando hay una promoción de venta o se está lanzando un nuevo producto.
+              p.mb-0 <b>Exhibición especial:</b> tiene un diseño diferente al de un lineal, góndola o estantería. Puede ser un  exhibidor diseñado exclusivamente para el producto, o también puede ser una isla, y por lo general se usa cuando hay una promoción de venta o se está lanzando un nuevo producto.
       .row.mb-5.justify-content-center
         .col-lg-10
           .cajon.color-primario.p-4
@@ -641,12 +640,12 @@
               p Son de gran tamaño, versátiles y con un excelente contenido escenográfico, cuyo fin es presentar variedad de productos de una marca en el mismo lugar personalizándolo para impactar visualmente al cliente a través de diseños lúdicos.
             .col-md-6
               figure
-                img(src='@/assets/curso/t2-n4.png', alt='imagen decorativa')
+                img(src='@/assets/curso/t2-n5.png', alt='imagen decorativa')
       .spacer
       .row.justify-content-center.mb-5
         .col-lg-10
           .cajon.color-primario.p-4(data-aos='flip-up')
-            p.mb-0  Una exhibición debe tener un grupo de características que avalen su funcionalidad y logren que se cumplan los objetivos del establecimiento. Por esta razón, la exhibición debe ser visible y atractiva a los ojos del cliente y, además, debe comunicar, puesto que el merchandising es comunicación visual en el interior del establecimiento.
+            p.mb-0  Una exhibición debe tener un grupo de características que avalen su funcionalidad y logren que se cumplan los objetivos del establecimiento. Por esta razón, la exhibición debe ser visible y atractiva a los ojos del cliente y, además, debe comunicar, puesto que el <i>merchandising</i> es comunicación visual en el interior del establecimiento.
       
       .row.justify-content-center
         .col-lg-7
@@ -705,7 +704,7 @@
         .row
           .col-lg-6
             h4 Vitrina exterior
-            p.mb-3  Por lo general se encuentra a los lados del ingreso a la tienda, especialmente cuando ésta está ubicada en un centro comercial.
+            p.mb-3  Por lo general se encuentra a los lados del ingreso a la tienda, especialmente cuando esta está ubicada en un centro comercial.
             p.mb-3  La idea es la de llamar la atención del cliente y ofrecerle una breve información, básica e imaginativa, provocándole curiosidad por conocer más. 
           .col-lg-6
             figure(data-aos="slide-right")
@@ -723,7 +722,7 @@
         .row
           .col-lg-6
             h4 Vitrina abierta
-            p.mb-3  Cuando el diseño de la vitrina no permite ver hacia adentro del establecimiento.
+            p.mb-3  Cuando el diseño de la vitrina permite observar el interior de la tienda.
           .col-lg-6
             figure(data-aos="slide-right")
               img(src='@/assets/curso/t2-p3.png', alt='imagen decorativa')   
@@ -816,7 +815,7 @@
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
               p.h3 Para el cliente <i>shopper</i>
-              p.small Se presentan los productos de modo que sea fácil de verlos por parte del cliente y además rentable para el establecimiento.
+              p.small El cliente que requiere de un grupo de argumentos para visitar un establecimiento en lugar de otro.
 
       .col-xs-8.col-sm-8.col-md-7.col-lg-5.col-xl-4
         .nav-holder.align-items-center(data-aos="flip-left")
@@ -863,15 +862,16 @@
 
     .row.mb-5.justify-content-center
       .col-lg-8
-        figcaption.customCaption.mb-2  Figura  Ciclo de vida del producto
+        .h3.titulo-quinto Ciclo de vida del producto
+        //--figcaption.customCaption.mb-2  Figura  Ciclo de vida del producto
         figure(data-aos="flip-up")
           img(src='@/assets/curso/t2-g1.svg', alt='imagen decorativa')  
 
-    h3.titulo-tercero Funciones del    
+    h3.titulo-tercero Funciones del <i>merchandising</i>   
     .row.mb-5
       .col-lg-8
-        p.mb-3  La labor de crear merchandising es ubicar, apoyar, monitorear y actualizar los productos, además de tener la exhibición impecable y apoyar los productos con publicidad que los acompañe (Borja, 2021). 
-        p.mb-4  Las principales funciones del merchandising son:
+        p.mb-3  La labor de crear <i>merchandising</i> es ubicar, apoyar, monitorear y actualizar los productos, además de tener la exhibición impecable y apoyar los productos con publicidad que los acompañe (Borja, 2021). 
+        p.mb-4  Las principales funciones del <i>merchandising</i> son:
         ul.lista-ul
           li
             i.fas.fa-check  
@@ -903,7 +903,7 @@
     #t_2_6.titulo-segundo
       h2 2.7  Señalización comercial
 
-    p.mb-5 Es una herramienta muy importante que ayuda a mejorar la información dentro del establecimiento, de tal forma que el visitante encuentre fácil el producto que necesita. Por lo tanto, ayuda a la circulación y la orientación dentro del recinto. Una buena implementación de un proyecto de señalización debe tener en cuenta los siguientes dos aspectos (Costa, 2007).
+    p.mb-5 Es una herramienta muy importante que ayuda a mejorar la información dentro del establecimiento, de tal forma que el visitante encuentre fácil el producto que necesita. Por lo tanto, ayuda a la circulación y la orientación dentro del recinto. Una buena implementación de un proyecto de señalización debe tener en cuenta los siguientes dos aspectos (Costa, 2007):
 
     .row.mb-5
       .col-lg-4
@@ -943,7 +943,7 @@
         figure(data-aos="flip-up")
           img(src='@/assets/curso/t2-i18.png', alt='imagen decorativa')  
 
-    p.mb-5  En Colombia, actualmente existen leyes y resoluciones que tienen que ver con las normas en señalización, que tienen como fina asegurar la integridad y salud del ser humano a nivel laboral y en lugares públicos, como se cita a continuación.
+    p.mb-5  En Colombia, actualmente existen leyes y resoluciones que tienen que ver con las normas en señalización, que tienen como fin asegurar la integridad y salud del ser humano a nivel laboral y en lugares públicos, como se cita a continuación.
     .row.mb-5.justify-content-center
       .col-lg-3
         figure(data-aos="flip-up")
@@ -953,24 +953,27 @@
           .row.justify-content-center(titulo="Ley 9 de 1979: Título III. (Salud Ocupacional)")
             .col-md-11.mb-4.mb-md-0
               p Donde se estipulan normas para preservar, conservar y mejorar la salud de los individuos en sus ocupaciones.
+          .row.justify-content-center(titulo="Resolución 2400 de mayo 22 de 1979")
+            .col-md-11.mb-4.mb-md-0
+              p Por la cual se establecen algunas disposiciones sobre vivienda, higiene y seguridad en los establecimientos de trabajo.              
           .row.justify-content-center(titulo="Título V. Artículo 202. Código de Colores")
             .col-md-11.mb-4.mb-md-0
               p “En todos los establecimientos de trabajo en donde se lleven a cabo operaciones y/o procesos que integren aparatos, máquinas, equipos, ductos, tuberías, etc. Y demás instalaciones locativas necesarias para su funcionamiento que utilizarán los colores básicos recomendados por la <i>AMERICAN STANDARS ASSOCIATION (ASA)</i> y otros colores específicos, para identificar los elementos, materiales, etc., y demás elementos específicos que determinen o prevengan riesgos que puedan causar accidentes o enfermedades profesionales”.
 
           .row.justify-content-center(titulo="Decreto 1443 de 2014")
             .col-md-11.mb-4.mb-md-0
-              p Por medio del cual se dictan disposiciones para la implementación del sistema de gestión de la seguridad y salud en el trabajo (SG-SST).
+              p Por medio del cual se dictan disposiciones para la implementación del Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST).
           .row.justify-content-center(titulo="Decreto 1072 de 2015, especialmente la parte referida al SG-SST")
             .col-md-11.mb-4.mb-md-0
               p Está especialmente enfocada a OSHAS 18001, indicando cómo definir unos parámetros para lograr la mejora continua.
 
-    p.mb-5  Además, existe una normativa que establece los parámetros que se deben cumplir en el diseño de las señales de seguridad. Se trata de la norma técnica Colombiana NTC 1461, que tiene como fin instaurar los colores y señales de seguridad que deben ser usados para prevenir accidentes y riesgos contra la salud e integridad de las personas, además de situaciones de emergencia. Esta norma se apoya en las normas internacionales ISO 3864-1 e ISO 16069:2004, que establecen varios criterios para el diseño de estas. A continuación, se exponen algunos de esos criterios:
+    p.mb-5  Además, existe una normativa que establece los parámetros que se deben cumplir en el diseño de las señales de seguridad. Se trata de la Norma Técnica Colombiana NTC 1461, que tiene como fin instaurar los colores y señales de seguridad que deben ser usados para prevenir accidentes y riesgos contra la salud e integridad de las personas, además de situaciones de emergencia. Esta norma se apoya en las normas internacionales ISO 3864-1 e ISO 16069:2004, que establecen varios criterios para el diseño de estas. A continuación, se exponen algunos de esos criterios:
     .tarjeta.bg-sliders.p-5.mb-5
       SlyderA
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
             .h4 Prohibición
-            p Debe ser redonda, de fondo blanco y con el pictograma centrado de color negro. Debe Tener una línea diagonal descendente de izquierda a derecha de color rojo que atraviese el pictograma. El borde debe tener el mismo grosor de la línea diagonal y también de color rojo.
+            p Debe ser redonda, de fondo blanco y con el pictograma centrado de color negro. Debe tener una línea diagonal descendente de izquierda a derecha de color rojo que atraviese el pictograma. El borde debe tener el mismo grosor de la línea diagonal y también de color rojo.
           .col-md-6
             figure
               img.nW.centered(src='@/assets/curso/t2-b1.svg', alt='pareja caminando en un supermecado')
@@ -1014,19 +1017,19 @@
 
           .tarjeta.color-acento-botones.p-3.shadow-box(x="2%" y="50%")
             p Condición de seguridad, su uso es principalmente para señales de ruta de evacuación y emergencia.
-            p <b>Contraste:</b> Verde - Blanco <br> <b>Forma</b>: Rectangular
+            p <b>Contraste:</b> Verde - Blanco <br> <b>Forma</b>: Rectangular<br> El color verde cubrirá por lo menos el 50% del área de la señal.
 
           .tarjeta.color-acento-botones.p-3.shadow-box(x="25%" y="12%")
-            p Prohibición, prevención de fuego, equipo, contra incendios, paradas de emergencia.
-            p <b>Contraste:</b> Rojo - Blanco <br> <b>Forma</b>: Circular - Rectangular
+            p Prohibición, prevención de fuego, equipo contra incendios, paradas de emergencia.
+            p <b>Contraste:</b> Rojo - Blanco <br> <b>Forma</b>: Circular - Rectangular<br> El color rojo, cubrirá por lo menos el 35% del área de la señal.
 
           .tarjeta.color-acento-botones.p-3.shadow-box(x="75%" y="12%")
             p Acción del mando, obligación a usar equipo de protección. Es de seguridad cuando se usa en forma circular.
-            p <b>Contraste:</b> Azul - Blanco <br> <b>Forma</b>: Circular
+            p <b>Contraste:</b> Azul - Blanco <br> <b>Forma</b>: Circular <br> El color azul, cubrirá mínimo el 50% del área de la señal.
 
           .tarjeta.color-acento-botones.p-3.shadow-box(x="98%" y="50%")
             p Se usa para advertir precaución y riesgo de peligro.
-            p <b>Contraste:</b> Amarillo - Negro <br> <b>Forma</b>: Triangular
+            p <b>Contraste:</b> Amarillo - Negro <br> <b>Forma</b>: Triangular <br> El color amarillo, cubrirá mínimo el 50% del área de la señal.
 
     p.mb-5.text-bold  Por otro lado, existe la señalética propia de cada almacén, empresa o establecimiento.
     .row.mb-5.justify-content-center
@@ -1050,7 +1053,7 @@
 
     .row.mb-5
       .col-lg-7
-        p.mb-5  Son unos sistemas que usan los establecimientos, principalmente a la hora de exhibir los artículos, y sirven para avisar al personal en el preciso momento en el que pueda estar existiendo un robo con el fin de evitar el hurto del artículo, interponiendo medios físicos que tienen como función dificultar la acción la sustracción por parte del ladrón (Vidal, Mas y González, 2011)
+        p.mb-5  Son unos sistemas que usan los establecimientos, principalmente a la hora de exhibir los artículos, y sirven para avisar al personal en el preciso momento en el que pueda estar existiendo un robo con el fin de evitar el hurto del artículo, interponiendo medios físicos que tienen como función dificultar la acción de sustracción por parte del ladrón (Vidal, Mas y González, 2011).
         .cajon.color-primario.p-4
           p.mb-0  Un establecimiento puede dejar de tener rentabilidad a causa del hurto de artículos dentro del punto de venta. Es por esta razón que para la prevención de estos acontecimientos indeseados se aconseja lo siguiente:
       .col-lg-5
@@ -1170,7 +1173,7 @@
     .row.mb-5.justify-content-center 
       .col-lg-10
         .cajon.color-primario.p-4
-          p.mb-0  Tener estos sistemas de seguridad le permitirá al establecimiento tener mejores garantías de obtener la rentabilidad esperada, porque reducen notablemente los intentos de robo de mercancía (Vidal, Mas y González, 2011)
+          p.mb-0  Tener estos sistemas de seguridad le permitirá al establecimiento tener mejores garantías de obtener la rentabilidad esperada, porque reducen notablemente los intentos de robo de mercancía (Vidal, Mas y González, 2011).
 
 
 
