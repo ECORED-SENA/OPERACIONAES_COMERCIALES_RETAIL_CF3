@@ -224,7 +224,7 @@
           figure(data-aos="slide-right")
             img(src='@/assets/curso/t3-i9.png', alt='imagen decorativa')
 
-      .h4  Artículos de baja rotación - alta implicación
+      .h4  Tipos de precios
       p.mb-5  A continuación, se conocerá cómo se diferencian los tipos que existen en el mercado:
       figure.mb-5
         .video
@@ -267,7 +267,7 @@
           .row
             .col-lg-7
               h4 Primado
-              p Precio alto que le fija a un artículo que no tendrá ningún tipo de descuento y que servirá para observar la fidelidad de los clientes frente a la marca. Se trata de una de las mejores formas que se tienen para lograr “valor de marca”. Ejemplo: Apple.
+              p Precio alto que se fija a un artículo que no tendrá ningún tipo de descuento y que servirá para observar la fidelidad de los clientes frente a la marca. Se trata de una de las mejores formas que se tienen para lograr “valor de marca”. Ejemplo: Apple.
             .col-lg-5
               figure(data-aos="slide-right")
                 img(src='@/assets/curso/t3-i10-3.png', alt='imagen decorativa')                    
@@ -285,7 +285,7 @@
           .row
             .col-lg-7
               h4 Promoción de ventas
-              p Precios por debajo de su valor monetario habitual de forma temporal (puede ser en fecha especiales) con el fin de originar una compra de manera instantánea. Ejemplos: Ciberlunes o <i>Black Friday</i>.
+              p Precios por debajo de su valor monetario habitual de forma temporal (puede ser en fechas especiales) con el fin de originar una compra de manera instantánea. Ejemplos: Ciberlunes o <i>Black Friday</i>.
             .col-lg-5
               figure(data-aos="slide-right")
                 img(src='@/assets/curso/t3-i10-5.png', alt='imagen decorativa')    
