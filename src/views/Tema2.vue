@@ -82,23 +82,22 @@
       h3.titulo-tercero Dimensiones del surtido
       p.mb-5  Las dimensiones del surtido cuentan con las siguientes características:
       .spacer
-      .row.mb-5
-        .col-lg-3
+      .row.mb-5.justify-content-center
+        .col-xs-6.col-sm-8.col-md-7.col-lg-3.col-xl-3
           .tarjeta-avatar.white-card.shadow-box
             img(src='@/assets/curso/t1-a1.png' alt='imagen decorativa')
             .tarjeta.r-0
               .p-4
                 h2.text-center Amplitud
                 p Número de familias diferentes de productos que ofrece la marca.
-
-        .col-lg-3
+        .col-xs-6.col-sm-8.col-md-7.col-lg-3.col-xl-3
           .tarjeta-avatar.white-card.shadow-box
             img(src='@/assets/curso/t1-a2.png' alt='imagen decorativa')
             .tarjeta.r-0
               .p-4
                 h2.text-center Profundidad
                 p Número de variantes que la marca ofrece por cada producto en cada familia.
-        .col-lg-3
+        .col-xs-6.col-sm-8.col-md-7.col-lg-3.col-xl-3
           .tarjeta-avatar.white-card.shadow-box
             img(src='@/assets/curso/t1-a3.png' alt='imagen decorativa')
             .tarjeta.r-0
@@ -106,14 +105,14 @@
                 h2.text-center Longitud
                 p Número total de productos que tiene la marca en una familia.
                 
-        .col-lg-3
+        .col-xs-6.col-sm-8.col-md-7.col-lg-3.col-xl-3
           .tarjeta-avatar.white-card.shadow-box
             img(src='@/assets/curso/t1-a4.png' alt='imagen decorativa')
             .tarjeta.r-0
               .p-4
                 h2.text-center Consistencia
                 p Cercanía relativa entre las líneas de producto y su uso final.
-
+        .spacer
       p.mb-5  Ahora se verá cómo se organizan dichas dimensiones del surtido:
       .tarjeta.bg-sliders2.p-5.mb-5.shadow-box
         SlyderA
