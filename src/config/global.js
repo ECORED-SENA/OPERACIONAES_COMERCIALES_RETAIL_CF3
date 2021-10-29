@@ -299,7 +299,7 @@ export default {
   complementario: [
     {
       texto:
-        'Quintero, A., L. F. (2015). El sector retail, los puntos de venta y el comportamiento de compra de los consumidores de la base de la pirámide en la comuna 10 de la ciudad de Medellín. Revista Ciencias Estratégicas, 23(33), 109-118.',
+        'Quintero, A., L. F. (2015). El sector <i>retail>/i>, los puntos de venta y el comportamiento de compra de los consumidores de la base de la pirámide en la comuna 10 de la ciudad de Medellín. Revista Ciencias Estratégicas, 23(33), 109-118.',
       tipo: 'Artículo PDF',
       descarga: '/downloads/anexo-el-sector-retail.pdf',
     },
@@ -311,7 +311,7 @@ export default {
     },
     {
       texto:
-        'Salgado, R. [Visual Branding LA]. (2013). Conceptos básicos de visual <i>merchandising</i>. [Video]. YouTube.',
+        'Salgado, R. [Visual Branding LA]. (2013). Conceptos básicos de <i>visual merchandising</i>. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=xZZ63K6cVbc',
     },
