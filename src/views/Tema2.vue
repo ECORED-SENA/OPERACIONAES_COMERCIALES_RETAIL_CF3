@@ -189,7 +189,7 @@
                 img(src='@/assets/curso/t2-t4.jpg', alt='imagen decorativa')      
             .col-md-6.mb-4.mb-md-0
               h4 El modo de presentación de los productos
-              p Se refiere a la forma en que se exhiben los productos. Se pueden usar góndolas, determinados tipos de contenedores, displays o, incluso, la presentación de los artículos en el suelo. Es por esto por lo que el modo de presentación de los productos influye directamente en la composición del surtido.
+              p Se refiere a la forma en que se exhiben los productos. Se pueden usar góndolas, determinados tipos de contenedores, <i>displays</i> o, incluso, la presentación de los artículos en el suelo. Es por esto por lo que el modo de presentación de los productos influye directamente en la composición del surtido.
 
         .py-3.py-md-4(titulo="El comportamiento de la clientela")
           .row.justify-content-center.align-items-center   

@@ -129,7 +129,7 @@
 
         .row.justify-content-center(titulo="Grandes almacenes")
           .col-md-8.mb-4.mb-md-0
-            p.mb-3  También conocidos como tiendas por departamentos, son establecimientos de gran tamaño que ofrecen una variedad de productos tales como ropa, calzado, muebles, menaje, decoración, confección, etc. La alimentación no es prioridad es este formato. Están ubicados en el centro de las ciudades, pueden tener varias plantas, lo que permite dividir su superficie comercial en secciones. Por lo general pertenecen a una sola empresa y tienen una sola sede de tamaño enorme. Ejemplo: Falabella.
+            p.mb-3  También conocidos como tiendas por departamentos, son establecimientos de gran tamaño que ofrecen una variedad de productos tales como ropa, calzado, muebles, menaje, decoración, confección, etc. La alimentación no es prioridad en este formato. Están ubicados en el centro de las ciudades, pueden tener varias plantas, lo que permite dividir su superficie comercial en secciones. Por lo general pertenecen a una sola empresa y tienen una sola sede de tamaño enorme. Ejemplo: Falabella.
           .col-md-2
             figure
               img.nW(src='@/assets/curso/t1-i8.png', alt='Logo de Gran almacen')
