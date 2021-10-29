@@ -589,7 +589,7 @@
             li 
               .lista-ol--cuadro__vineta
                 span 5
-              p.mb-0 <b>Exhibición en <i>check out:</i></b> Productos que se encuentran cerca de las cajas para que el cliente realice una acción de compra por impulso en el momento de hacer la fila para pagar.
+              p.mb-0 <b>Exhibición en <i>check out:</i></b> productos que se encuentran cerca de las cajas para que el cliente realice una acción de compra por impulso en el momento de hacer la fila para pagar.
 
             li 
               .lista-ol--cuadro__vineta
