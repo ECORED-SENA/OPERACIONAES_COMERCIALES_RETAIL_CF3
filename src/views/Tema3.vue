@@ -228,7 +228,7 @@
       p.mb-5  A continuación, se conocerá cómo se diferencian los tipos que existen en el mercado:
       figure.mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/_cXcHSVingo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
       .h4  Estrategias de precio
       p.mb-3  Se basan en establecer precios que pueden ser menores, mayores o iguales a los precios de venta y que, estratégicamente, dependen de la intención del fabricante y la imagen que quiera dejarles a los clientes. Según esto, algunas de las estrategias de precio más comunes son:
