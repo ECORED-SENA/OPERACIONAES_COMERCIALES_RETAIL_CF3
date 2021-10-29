@@ -16,19 +16,19 @@
         p.mb-4  El mobiliario es un aspecto importantísimo en la gestión comercial porque contribuye con la imagen de una marca, siendo un factor primordial en su diferencia competitiva. Las siguientes son las principales ventajas que un establecimiento puede tener si usa estratégicamente el mobiliario:
         ul.lista-ul
           li
-            i.fas.fa-ckeck
+            i.fas.fa-check
             p Invita a los clientes al establecimiento ayudando en la elección del punto de venta como su lugar de compra preferido.
           li
-            i.fas.fa-ckeck
+            i.fas.fa-check
             p Orienta a los clientes dentro del establecimiento facilitando la compra de artículos porque tiene ordenado el surtido y dividido según el tipo de producto.
           li
-            i.fas.fa-ckeck
+            i.fas.fa-check
             p Fideliza a los consumidores, generando comportamientos positivos, además de <i>engagement</i> o compromiso de compra.
           li
-            i.fas.fa-ckeck
+            i.fas.fa-check
             p Entrega un alto valor a los artículos, porque mejora su exhibición de cara a los clientes.
           li
-            i.fas.fa-ckeck
+            i.fas.fa-check
             p Provoca en los clientes una mejor experiencia de compra al tener un impactante diseño y una excelente distribución del mobiliario comercial.
             
     .row.mb-5.justify-content-center
