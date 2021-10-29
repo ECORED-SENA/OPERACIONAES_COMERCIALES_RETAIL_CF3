@@ -75,7 +75,7 @@
 
           .row
             .col-md-6.mb-4.mb-md-0
-              .h4 Contenedores presentadores o <i>Bulk Basket</i> 
+              .h4 Contenedores presentadores o <i>Bulk basket</i> 
               p Muebles que exhiben mucha mercancía, de forma arrumada, una encima de otra, como por ejemplo balones, frutas y verduras, ropa en rebaja, etc. Por lo general, son metálicos o de madera. Exhiben los productos de manera desordenada o revuelta; pueden ser de gran tamaño y altura.
             .col-md-6
               figure
