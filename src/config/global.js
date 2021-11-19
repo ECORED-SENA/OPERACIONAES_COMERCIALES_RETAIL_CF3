@@ -194,7 +194,7 @@ export default {
     },
     {
       referencia:
-        'Kotler, P., y Armstrong, G. (2013). Fundaments de <i>Marketing</i>. Pearson Educación.',
+        'Kotler, P., y Armstrong, G. (2013). Fundamentos de <i>Marketing</i>. Pearson Educación.',
     },
     {
       referencia:
